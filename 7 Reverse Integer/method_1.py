@@ -32,9 +32,3 @@ class Solution(object):
                 return 0
             else:
                 return 0 - r
-
-
-# a = Solution()
-# print a.reverse(-123)
-
-print 1 * (1 > 0)
