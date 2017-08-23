@@ -8,7 +8,33 @@ class Solution(object):
         :rtype: int
         """
 
-        self.x = x
+        x = x
+        if x >= 0:
+            x = reversed(str(x))
+            t = ''
+            for i in x:
+                t += i
 
-        if self.x > 0:
-            pass
+            r = int(t)
+            if r > (2 ** 31 - 1):
+                return 0
+            else:
+                return r
+
+        else:
+            x = reversed(str(0 - x))
+            t = ''
+            for i in x:
+                t += i
+
+            r = int(t)
+            if r > (2 ** 31 - 1):
+                return 0
+            else:
+                return 0 - r
+
+
+# a = Solution()
+# print a.reverse(-123)
+
+print 1 * (1 > 0)
