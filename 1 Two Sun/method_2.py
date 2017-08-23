@@ -16,10 +16,3 @@ class Solution(object):
             else:
                 n = target - t
                 result_dict[n] = i
-
-
-if __name__ == '__main__':
-    nums = [1, 2, 3, 4, 5, 6]
-    target = 3
-    solution = Solution()
-    print solution.twoSum(nums,target)
