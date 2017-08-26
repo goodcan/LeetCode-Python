@@ -30,5 +30,4 @@ class Solution(object):
         if q[:l] == q[(0 - l):][::-1]:
             return True
         else:
-            print '*' * 20
             return False
