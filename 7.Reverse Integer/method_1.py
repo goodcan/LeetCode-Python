@@ -3,14 +3,14 @@
 
 """
 Question:
-Reverse digits of an integer.
+整数的反向数字。
 
 Example1: x = 123, return 321
 Example2: x = -123, return -321
 
 Note:
-The input is assumed to be a 32-bit signed integer.
-Your function should return 0 when the reversed integer overflows.
+输入假定为一个32位的带符号整数。
+当反向的整数溢出时，函数应该返回0。
 """
 
 class Solution(object):

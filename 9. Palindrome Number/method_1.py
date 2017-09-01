@@ -3,7 +3,7 @@
 
 """
 Question:
-Determine whether an integer is a palindrome. Do this without extra space.
+确定一个整数是否为回文。
 """
 
 

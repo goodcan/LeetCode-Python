@@ -3,10 +3,8 @@
 
 """
 Question:
-Given an array of integers, return indices of the two
-numbers such that they add up to a specific target.
-You may assume that each input would have exactly one
-solution, and you may not use the same element twice.
+给定一个整数数组，两个数字的返回索引，它们加到一个特定的目标。
+您可能假设每个输入都有一个完全的解决方案，您可能不会重复使用相同的元素两次。
 
 Example:
 Given nums = [2, 7, 11, 15], target = 9
