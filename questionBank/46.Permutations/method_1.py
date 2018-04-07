@@ -38,4 +38,4 @@ class Solution(object):
 
 a = [1, 2, 3]
 b = Solution()
-print b.permute(a)
+print(b.permute(a))
