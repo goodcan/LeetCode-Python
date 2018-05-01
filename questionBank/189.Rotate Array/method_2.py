@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # @Time     : 2018/4/7 下午10:52
 # @Author   : cancan
-# @File     : method_1.py
+# @File     : method_2.py
 # @Function : 旋转数据
 
 """

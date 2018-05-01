@@ -21,7 +21,6 @@ Follow up:
 * 如果nums2的元素存储在磁盘上，内存是有限的，你不能一次加载所有的元素到内存中，你该怎么办？
 """
 
-
 class Solution1:
     def intersect(self, nums1, nums2):
         """
