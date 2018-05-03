@@ -14,6 +14,7 @@ Example:
 返回："olleh"
 """
 
+
 class Solution:
     def reverseString(self, s):
         """
