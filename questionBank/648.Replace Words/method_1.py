@@ -34,7 +34,7 @@ class Solution:
         :rtype: str
         """
         dict.sort(key=lambda x: len(x))
-        s = sentence.split(' ')
+        s = sentence.split()
         for i, x in enumerate(s):
             for y in dict:
                 if x.startswith(y):

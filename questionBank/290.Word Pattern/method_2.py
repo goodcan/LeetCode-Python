@@ -38,7 +38,7 @@ class Solution:
         :type str: str
         :rtype: bool
         """
-        str_list = str.split(' ')
+        str_list = str.split()
 
         if len(pattern) != len(str_list):
             return False
