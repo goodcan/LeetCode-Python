@@ -23,12 +23,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        s = []
-        d = {}
-        for i in nums:
-            if i in d:
-                d[i] += 1
-                s.append(i)
-            else:
-                d[i] = 1
-        return s
+        from collections import Counter
+
+        c = Counter(nums)
+        res = []
+        for k, v in c.items():
+            if v > 1:
+                res.append(k)
+        return res
