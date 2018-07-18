@@ -23,6 +23,13 @@
 * [实现strStr()](./primary/Strings/question_7.py)
 * [数数并说](./primary/Strings/question_8.py)
 * [最长公共前缀](./primary/Strings/question_9.py)
+#### 链表
+* [删除链表中的节点](./primary/Linked%20List/question_1.py)
+* [删除链表的倒数第N个节点](./primary/Linked%20List/question_2.py)
+* [反转链表](./primary/Linked%20List/question_3.py)
+* [合并两个有序链表](./primary/Linked%20List/question_4.py)
+* [回文链表](./primary/Linked%20List/question_5.py)
+* [环形链表](./primary/Linked%20List/question_6.py)
 ## 题库
 ## 声明
 代码仅供参考，如有不恰当、不正确的地方，欢迎批评指正，谢谢……
