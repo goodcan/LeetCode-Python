@@ -13,6 +13,16 @@
 * [两数之和](./primary/Array/question_9.py)
 * [有效的数独](./primary/Array/question_10.py)
 * [旋转图像](./primary/Array/question_11.py)
+#### 字符串
+* [反转字符串](./primary/Strings/question_1.py)
+* [颠倒整数](./primary/Strings/question_2.py)
+* [字符串中的第一个唯一字符](./primary/Strings/question_3.py)
+* [有效的字母异位词](./primary/Strings/question_4.py)
+* [验证回文字符串](./primary/Strings/question_5.py)
+* [字符串转整数（atoi）](./primary/Strings/question_6.py)
+* [实现strStr()](./primary/Strings/question_7.py)
+* [数数并说](./primary/Strings/question_8.py)
+* [最长公共前缀](./primary/Strings/question_9.py)
 ## 题库
 ## 声明
 代码仅供参考，如有不恰当、不正确的地方，欢迎批评指正，谢谢……
