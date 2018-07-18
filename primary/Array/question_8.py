@@ -1,71 +1,58 @@
 #!/usr/bin/env python
-# @Time     : 2018/5/1 下午9:58
+# @Time     : 2018/5/1 下午9:30
 # @Author   : cancan
 # @File     : question_8.py
-# @Function : 两数之和
+# @Function : 移动零
 
 """
 Question:
-给定一个整数数组和一个目标值，找出数组中和为目标值的两个数。
-你可以假设每个输入只对应一种答案，且同样的元素不能被重复利用。
+给定一个数组 nums, 编写一个函数将所有 0 移动到它的末尾，同时保持非零元素的相对顺序。
+例如， 定义 nums = [0, 1, 0, 3, 12]，调用函数之后， nums 应为 [1, 3, 12, 0, 0]。
 
-Example:
-给定 nums = [2, 7, 11, 15], target = 9
-因为 nums[0] + nums[1] = 2 + 7 = 9
-所以返回 [0, 1]
+Note:
+1.必须在原数组上操作，不要为一个新数组分配额外空间。
+2.尽量减少操作总数。
 """
 
 
 class Solution1:
-    def twoSum(self, nums, target):
+    def moveZeroes(self, nums):
         """
         :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
+        :rtype: void Do not return anything, modify nums in-place instead.
         """
 
+        n = []
         for i, v in enumerate(nums):
-            d = target - v
-            if d in nums:
-                index = nums.index(d)
-                if index != i:
-                    return [i, index]
+            if v == 0:
+                n.append(i)
+        l = len(n)
+        n = reversed(n)
+        for i in n:
+            del nums[i]
+
+        nums.extend([0] * l)
 
 
 class Solution2:
-    def twoSum(self, nums, target):
+    def moveZeroes(self, nums):
         """
         :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
+        :rtype: void Do not return anything, modify nums in-place instead.
         """
-        t = {}
-        for i, v in enumerate(nums):
-            d = target - v
-            if d in t:
-                return [t[d], i]
+        i = 0
+        c = 0
+        while (i < len(nums) - c):
+            if nums[i] == 0:
+                nums.pop(i)
+                nums.append(0)
+                c += 1
             else:
-                t[v] = i
-
-
-class Solution3:
-    def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
-        t = {}
-        for i in range(len(nums)):
-            d = target - nums[i]
-            if d in t:
-                return [t[d], i]
-            else:
-                t[nums[i]] = i
+                i += 1
 
 
 if __name__ == "__main__":
-    s = Solution3()
-    d = [3, 2, 4]
-    t = 6
-    print(s.twoSum(d, t))
+    s = Solution2()
+    d = [0, 1, 0, 3, 12]
+    s.moveZeroes(d)
+    print(d)

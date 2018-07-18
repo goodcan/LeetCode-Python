@@ -1,58 +1,61 @@
 #!/usr/bin/env python
-# @Time     : 2018/5/1 下午9:30
+# @Time     : 2018/5/1 下午9:01
 # @Author   : cancan
 # @File     : question_7.py
-# @Function : 移动零
+# @Function : 加一
 
 """
 Question:
-给定一个数组 nums, 编写一个函数将所有 0 移动到它的末尾，同时保持非零元素的相对顺序。
-例如， 定义 nums = [0, 1, 0, 3, 12]，调用函数之后， nums 应为 [1, 3, 12, 0, 0]。
+给定一个非负整数组成的非空数组，在该数的基础上加一，返回一个新的数组。
+最高位数字存放在数组的首位， 数组中每个元素只存储一个数字。
+你可以假设除了整数 0 之外，这个整数不会以零开头。
 
-Note:
-1.必须在原数组上操作，不要为一个新数组分配额外空间。
-2.尽量减少操作总数。
+Example 1:
+输入: [1,2,3]
+输出: [1,2,4]
+解释: 输入数组表示数字 123。
+
+Example 2:
+输入: [4,3,2,1]
+输出: [4,3,2,2]
+解释: 输入数组表示数字 4321。
 """
 
 
 class Solution1:
-    def moveZeroes(self, nums):
+    def plusOne(self, digits):
         """
-        :type nums: List[int]
-        :rtype: void Do not return anything, modify nums in-place instead.
+        :type digits: List[int]
+        :rtype: List[int]
         """
+        s1 = ''
+        for i in digits:
+            s1 += str(i)
 
-        n = []
-        for i, v in enumerate(nums):
-            if v == 0:
-                n.append(i)
-        l = len(n)
-        n = reversed(n)
-        for i in n:
-            del nums[i]
+        s1 = str(int(s1) + 1)
 
-        nums.extend([0] * l)
+        r = []
+
+        for i in s1:
+            r.append(int(i))
+
+        return r
 
 
 class Solution2:
-    def moveZeroes(self, nums):
+    def plusOne(self, digits):
         """
-        :type nums: List[int]
-        :rtype: void Do not return anything, modify nums in-place instead.
+        :type digits: List[int]
+        :rtype: List[int]
         """
-        i = 0
-        c = 0
-        while (i < len(nums) - c):
-            if nums[i] == 0:
-                nums.pop(i)
-                nums.append(0)
-                c += 1
-            else:
-                i += 1
+        num = 0
+        for i, v in enumerate(digits):
+            num = num * 10 + digits[i]
+        s = str(num + 1)
+        return [int(i) for i in s]
 
 
 if __name__ == "__main__":
-    s = Solution2()
-    d = [0, 1, 0, 3, 12]
-    s.moveZeroes(d)
-    print(d)
+    s = Solution1()
+    d = [1, 2, 3]
+    print(s.plusOne(d))
