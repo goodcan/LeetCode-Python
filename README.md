@@ -36,6 +36,9 @@
 * [对称二叉树](./primary/Trees/question_3.py)
 * [二叉树的层次遍历](./primary/Trees/question_4.py)
 * [将有序数组转换为二叉搜索树](./primary/Trees/question_5.py)
+#### 排序和搜索
+* [合并两个有序数组](./primary/Sorting%20and%20Searching/question_1.py)
+* [第一个错误的版本](./primary/Sorting%20and%20Searching/question_2.py)
 ## 题库
 ## 声明
 代码仅供参考，如有不恰当、不正确的地方，欢迎批评指正，谢谢……
