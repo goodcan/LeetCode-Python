@@ -39,6 +39,11 @@
 #### 排序和搜索
 * [合并两个有序数组](./primary/Sorting%20and%20Searching/question_1.py)
 * [第一个错误的版本](./primary/Sorting%20and%20Searching/question_2.py)
+#### 动态规划
+* [爬楼梯](./primary/Dynamic%20Programming/question_1.py)
+* [买卖股票的最佳时机](./primary/Dynamic%20Programming/question_2.py)
+* [最大子序和](./primary/Dynamic%20Programming/question_3.py)
+* [打家劫舍](./primary/Dynamic%20Programming/question_4.py)
 ## 题库
 ## 声明
 代码仅供参考，如有不恰当、不正确的地方，欢迎批评指正，谢谢……
