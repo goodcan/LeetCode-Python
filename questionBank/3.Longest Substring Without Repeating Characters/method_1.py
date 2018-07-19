@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# @Function : 无重复字符的最长子串
 
 """
 Question:
@@ -19,7 +20,6 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        l = range(len(s))
         left = 0
         v_i = {}
         ans = 0
