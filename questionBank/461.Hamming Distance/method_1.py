@@ -3,7 +3,7 @@
 # @Time     : 2018/6/27 23:11
 # @Author   : cancan
 # @File     : method_1.py
-# @Function :汉明距离
+# @Function : 汉明距离
 
 """
 Question:

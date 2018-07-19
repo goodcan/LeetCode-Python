@@ -53,7 +53,7 @@
 * [打家劫舍](./primary/Dynamic%20Programming/question_4.py)
 
 ## 题库
-> 编号对应 LeetCode 中的题号
+> 编号对应 LeetCode 题号
 
 1 [两数之和](./questionBank/1.Two%20Sun/)<br>
 2 [两数相加](./questionBank/2.Add%20Two%20Numbers/)<br>
@@ -65,6 +65,81 @@
 14 [最长公共前缀](./questionBank/14.Longest%20Common%20Prefix/)<br>
 19 [删除链表的倒数第N个节点](./questionBank/19.Remove%20Nth%20Node%20From%20End%20of%20List/)<br>
 21 [合并两个有序链表](./questionBank/21.Merge%20Two%20Sorted%20Lists/)<br>
+26 [从排序数组中删除重复项](./questionBank/26.Remove%20Duplicates%20from%20Sorted%20Array/)<br>
+27 [移除元素](./questionBank/27.Remove%20Element/)<br>
+28 [实现strStr](./questionBank/28.Implement%20strStr()/)<br>
+35 [搜索插入位置](./questionBank/35.Search%20Insert%20Position/)<br>
+36 [有效的数独](./questionBank/36.Valid%20Sudoku/)<br>
+38 [数数并说](./questionBank/38.Count%20and%20Say/)<br>
+46 [全排列](./questionBank/46.Permutations/)<br>
+48 [旋转图像](./questionBank/48.Rotate%20Image/)<br>
+53 [最大子序和](./questionBank/53.Maximum%20Subarray/)<br>
+58 [最后一个单词的长度](./questionBank/58.Length%20of%20Last%20Word/)<br>
+66 [加一](./questionBank/66.Plus%20One/)<br>
+67 [二进制求和](./questionBank/67.Add%20Binary/)<br>
+70 [爬楼梯](./questionBank/70.Climbing%20Stairs/)<br>
+82 [删除排序链表中的重复元素 II](./questionBank/82.Remove%20Duplicates%20from%20Sorted%20List%20II/)<br>
+83 [删除排序链表中的重复元素](./questionBank/83.Remove%20Duplicates%20from%20Sorted%20List/)<br>
+88 [合并两个有序数组](./questionBank/88.Merge%20Sorted%20Array/)<br>
+98 [验证二叉搜索树](./questionBank/98.Validate%20Binary%20Search%20Tree/)<br>
+101 [对称二叉树](./questionBank/101.Symmetric%20Tree/)<br>
+102 [二叉树的层次遍历](./questionBank/102.Binary%20Tree%20Level%20Order%20Traversal/)<br>
+104 [二叉树的最大深度](./questionBank/104.Maximum%20Depth%20of%20Binary%20Tree/)<br>
+108 [将有序数组转换为二叉搜索树](./questionBank/108.Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/)<br>
+118 [杨辉三角](./questionBank/118.Pascal's%20Triangle/)<br>
+119 [杨辉三角 II](./questionBank/119..Pascal's%20Triangle%20II/)<br>
+121 [买卖股票的最佳时机](./questionBank/121.Best%20Time%20to%20Buy%20and%20Sell%20Stock/)<br>
+122 [买卖股票的最佳时机](./questionBank/122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/)<br>
+125 [验证回文字符串](./questionBank/125.Valid%20Palindrome/)<br>
+136 [只出现一次的数字](./questionBank/136.Single%20Number/)<br>
+141 [环形链表](./questionBank/141.Linked%20List%20Cycle/)<br>
+148 [排序链表](./questionBank/148.Sort%20List/)<br>
+151 [翻转字符串里的单词](./questionBank/151.Reverse%20Words%20in%20a%20String/)<br>
+164 [最大间距](./questionBank/164.Maximum%20Gap/)<br>
+189 [旋转数据](./questionBank/189.Rotate%20Array/)<br>
+191 [位1的个数](./questionBank/191.Number%20of%201%20Bits/)<br>
+198 [打家劫舍](./questionBank/198.House%20Robber/)<br>
+206 [反转链表](./questionBank/206.Reverse%20Linked%20List/)<br>
+215 [数组中的第K个最大元素](./questionBank/215.Kth%20Largest%20Element%20in%20an%20Array/)<br>
+217 [存在重复](./questionBank/217.Contains%20Duplicate/)<br>
+226 [翻转二叉树](./questionBank/226.Invert%20Binary%20Tree/)<br>
+231 [2的幂](./questionBank/231.Power%20of%20Two/)<br>
+234 [回文链表](./questionBank/234.Palindrome%20Linked%20List/)<br>
+237 [删除链表的结点](./questionBank/237.Delete%20Node%20in%20a%20Linked%20List/)<br>
+242 [有效的字母异位词](./questionBank/242.Valid%20Anagram/)<br>
+258 [各位相加](./questionBank/258.Add%20Digits/)<br>
+260 [只出现一次的数字 III](./questionBank/260.Single%20Number%20III/)<br>
+278 [第一个错误的版本](./questionBank/278.First%20Bad%20Version/)<br>
+283 [移动零](./questionBank/283.Move%20Zeroes/)<br>
+287 [寻找重复数](./questionBank/287.Find%20the%20Duplicate%20Number/)<br>
+290 [单词模式](./questionBank/290.Word%20Pattern/)<br>
+303 [区域和检索 - 数组不可变](./questionBank/303.Range%20Sum%20Query%20-%20Immutable/)<br>
+326 [3的幂](./questionBank/326.Power%20of%20Three/)<br>
+342 [4的幂](./questionBank/342.Power%20of%20Four/)<br>
+344 [反转字符串](./questionBank/344.Reverse%20String/)<br>
+349 [两个数组的交集](./questionBank/349.Intersection%20of%20Two%20Arrays/)<br>
+350 [两个数组的交集 II](./questionBank/350.Intersection%20of%20Two%20Arrays%20II/)<br>
+371 [两整数之和](./questionBank/371.Sum%20of%20Two%20Integers/)<br>
+387 [字符串中的第一个唯一字符](./questionBank/387.First%20Unique%20Character%20in%20a%20String/)<br>
+389 [找不同](./questionBank/389.Find%20the%20Difference/)<br>
+404 [左叶子之和](./questionBank/404.Sum%20of%20Left%20Leaves/)<br>
+415 [字符串相加](./questionBank/415.Add%20Strings/)<br>
+434 [字符串中的单词数](./questionBank/434.Number%20of%20Segments%20in%20a%20String/)<br>
+442 [数组中重复的数据](./questionBank/442.Find%20All%20Duplicates%20in%20an%20Array/)<br>
+451 [根据字符出现频率排序](./questionBank/451.Sort%20Characters%20By%20Frequency/)<br>
+461 [汉明距离](./questionBank/461.Hamming%20Distance/)<br>
+476 [数字的补数](./questionBank/476.Number%20Complement/)<br>
+520 [检测大写字母](./questionBank/520.Detect%20Capital/)<br>
+551 [学生出勤纪录 I](./questionBank/551.Student%20Attendance%20Record%20I/)<br>
+557 [反转字符串中的单词 III](./questionBank/557.Reverse%20Words%20in%20a%20String%20III/)<br>
+637 [二叉树的层平均值](./questionBank/637.Average%20of%20Levels%20in%20Binary%20Tree/)<br>
+648 [单词替换](./questionBank/648.Replace%20Words/)<br>
+728 [自除数](./questionBank/728.Self%20Dividing%20Numbers/)<br>
+771 [宝石与石头](./questionBank/771.Jewels%20and%20Stones/)<br>
+804 [唯一摩尔斯密码词](./questionBank/804.Unique%20Morse%20Code%20Words/)<br>
+832 [翻转图像](./questionBank/832.Flipping%20an%20Image/)<br>
+852 [山脉数组的峰顶索引](./questionBank/852.Peak%20Index%20in%20a%20Mountain%20Array/)<br>
+<!-- 7 [](./questionBank//)<br> -->
 
 ## 声明
 代码仅供参考，如有不恰当、不正确的地方，欢迎批评指正，谢谢……
