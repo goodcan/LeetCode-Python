@@ -53,5 +53,18 @@
 * [打家劫舍](./primary/Dynamic%20Programming/question_4.py)
 
 ## 题库
+> 编号对应 LeetCode 中的题号
+
+1 [两数之和](./questionBank/1.Two%20Sun/)<br>
+2 [两数相加](./questionBank/2.Add%20Two%20Numbers/)<br>
+3 [无重复字符的最长子串](./questionBank/3.Longest%20Substring%20Without%20Repeating%20Characters/)<br>
+7 [颠倒整数](./questionBank/7.Reverse%20Integer/)<br>
+8 [字符串转整数（atoi）](./questionBank/8.String%20to%20Integer%20(atoi)/)<br>
+9 [回文数](./questionBank/9.Palindrome%20Number/)<br>
+11 [盛最多水的容器](./questionBank/11.Container%20With%20Most%20Water/)<br>
+14 [最长公共前缀](./questionBank/14.Longest%20Common%20Prefix/)<br>
+19 [删除链表的倒数第N个节点](./questionBank/19.Remove%20Nth%20Node%20From%20End%20of%20List/)<br>
+21 [合并两个有序链表](./questionBank/21.Merge%20Two%20Sorted%20Lists/)<br>
+
 ## 声明
 代码仅供参考，如有不恰当、不正确的地方，欢迎批评指正，谢谢……
