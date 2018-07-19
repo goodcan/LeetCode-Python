@@ -3,8 +3,7 @@
 # @Time     : 2018/7/10 11:40
 # @Author   : cancan
 # @File     : method_1.py
-# @Function :
-
+# @Function : 两数相加
 
 """
 Question:
