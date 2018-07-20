@@ -95,6 +95,7 @@
 125 [验证回文字符串](./questionBank/125.Valid%20Palindrome/)<br>
 136 [只出现一次的数字](./questionBank/136.Single%20Number/)<br>
 141 [环形链表](./questionBank/141.Linked%20List%20Cycle/)<br>
+144 [二叉树的前序遍历](./questionBank/144.Binary%20Tree%20Preorder%20Traversal/)<br>
 145 [二叉树的后序遍历](./questionBank/145.Binary%20Tree%20Postorder%20Traversal/)<br>
 148 [排序链表](./questionBank/148.Sort%20List/)<br>
 151 [翻转字符串里的单词](./questionBank/151.Reverse%20Words%20in%20a%20String/)<br>
