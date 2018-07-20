@@ -82,6 +82,7 @@
 82 [删除排序链表中的重复元素 II](./questionBank/82.Remove%20Duplicates%20from%20Sorted%20List%20II/)<br>
 83 [删除排序链表中的重复元素](./questionBank/83.Remove%20Duplicates%20from%20Sorted%20List/)<br>
 88 [合并两个有序数组](./questionBank/88.Merge%20Sorted%20Array/)<br>
+94 [二叉树的中序遍历](./questionBank/94.Binary%20Tree%20Inorder%20Traversal/)<br>
 98 [验证二叉搜索树](./questionBank/98.Validate%20Binary%20Search%20Tree/)<br>
 101 [对称二叉树](./questionBank/101.Symmetric%20Tree/)<br>
 102 [二叉树的层次遍历](./questionBank/102.Binary%20Tree%20Level%20Order%20Traversal/)<br>
