@@ -109,6 +109,7 @@
 206 [反转链表](./questionBank/206.Reverse%20Linked%20List/)<br>
 215 [数组中的第K个最大元素](./questionBank/215.Kth%20Largest%20Element%20in%20an%20Array/)<br>
 217 [存在重复](./questionBank/217.Contains%20Duplicate/)<br>
+225 [用队列实现栈](./questionBank/225.Implement%20Stack%20using%20Queues/)<br>
 226 [翻转二叉树](./questionBank/226.Invert%20Binary%20Tree/)<br>
 231 [2的幂](./questionBank/231.Power%20of%20Two/)<br>
 234 [回文链表](./questionBank/234.Palindrome%20Linked%20List/)<br>
