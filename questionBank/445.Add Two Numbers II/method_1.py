@@ -43,6 +43,11 @@ class Solution:
         return r
 
     def get_num(self, node):
+        """
+        推导链表对应整数
+        :param node:
+        :return:
+        """
         num = 0
         t = node
         while t:
