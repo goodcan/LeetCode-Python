@@ -57,6 +57,8 @@
 * [最小栈](./primary/Design/question_2.py)
 
 #### 数学
+* [Fizz Buzz](./primary/Math/question_1.py)
+* [](./primary/Math/question_2.py)
 * [3的幂](./primary/Math/question_3.py)
 
 ## 题库
@@ -140,6 +142,7 @@
 387 [字符串中的第一个唯一字符](./questionBank/387.First%20Unique%20Character%20in%20a%20String/)<br>
 389 [找不同](./questionBank/389.Find%20the%20Difference/)<br>
 404 [左叶子之和](./questionBank/404.Sum%20of%20Left%20Leaves/)<br>
+412 [Fizz Buzz](./questionBank/412.Fizz%20Buzz/)<br>
 415 [字符串相加](./questionBank/415.Add%20Strings/)<br>
 434 [字符串中的单词数](./questionBank/434.Number%20of%20Segments%20in%20a%20String/)<br>
 442 [数组中重复的数据](./questionBank/442.Find%20All%20Duplicates%20in%20an%20Array/)<br>
