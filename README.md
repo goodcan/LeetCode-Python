@@ -116,6 +116,7 @@
 189 [旋转数据](./questionBank/189.Rotate%20Array/)<br>
 191 [位1的个数](./questionBank/191.Number%20of%201%20Bits/)<br>
 198 [打家劫舍](./questionBank/198.House%20Robber/)<br>
+204 [计数质数](./questionBank/204.Count%20Primes/)<br>
 206 [反转链表](./questionBank/206.Reverse%20Linked%20List/)<br>
 215 [数组中的第K个最大元素](./questionBank/215.Kth%20Largest%20Element%20in%20an%20Array/)<br>
 217 [存在重复](./questionBank/217.Contains%20Duplicate/)<br>
