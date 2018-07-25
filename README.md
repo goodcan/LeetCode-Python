@@ -54,6 +54,7 @@
 
 #### 设计问题
 * [打亂數組](./primary/Design/question_1.py)
+* [最小栈](./primary/Design/question_2.py)
 
 ## 题库
 > 编号对应 LeetCode 题号
@@ -105,6 +106,7 @@
 145 [二叉树的后序遍历](./questionBank/145.Binary%20Tree%20Postorder%20Traversal/)<br>
 148 [排序链表](./questionBank/148.Sort%20List/)<br>
 151 [翻转字符串里的单词](./questionBank/151.Reverse%20Words%20in%20a%20String/)<br>
+155 [最小栈](./questionBank/155.Min%20Stack/)<br>
 164 [最大间距](./questionBank/164.Maximum%20Gap/)<br>
 189 [旋转数据](./questionBank/189.Rotate%20Array/)<br>
 191 [位1的个数](./questionBank/191.Number%20of%201%20Bits/)<br>
