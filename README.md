@@ -56,6 +56,9 @@
 * [打亂數組](./primary/Design/question_1.py)
 * [最小栈](./primary/Design/question_2.py)
 
+#### 数学
+* [3的幂](./primary/Math/question_3.py)
+
 ## 题库
 > 编号对应 LeetCode 题号
 
