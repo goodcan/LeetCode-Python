@@ -64,6 +64,7 @@
 #### 其他
 * [位1的个数](./primary/Others/question_1.py)
 * [汉明距离](./primary/Others/question_2.py)
+* [颠倒二进制位](./primary/Others/question_3.py)
 
 
 ## 题库
@@ -119,6 +120,7 @@
 155 [最小栈](./questionBank/155.Min%20Stack/)<br>
 164 [最大间距](./questionBank/164.Maximum%20Gap/)<br>
 189 [旋转数据](./questionBank/189.Rotate%20Array/)<br>
+190 [颠倒二进制位](./questionBank/190.Reverse%20Bits/)<br>
 191 [位1的个数](./questionBank/191.Number%20of%201%20Bits/)<br>
 198 [打家劫舍](./questionBank/198.House%20Robber/)<br>
 204 [计数质数](./questionBank/204.Count%20Primes/)<br>
