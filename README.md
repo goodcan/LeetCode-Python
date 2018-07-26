@@ -58,8 +58,12 @@
 
 #### 数学
 * [Fizz Buzz](./primary/Math/question_1.py)
-* [](./primary/Math/question_2.py)
+* [计数质数](./primary/Math/question_2.py)
 * [3的幂](./primary/Math/question_3.py)
+
+#### 其他
+* [位1的个数](./primary/Others/question_1.py)
+
 
 ## 题库
 > 编号对应 LeetCode 题号
