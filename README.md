@@ -63,6 +63,7 @@
 
 #### 其他
 * [位1的个数](./primary/Others/question_1.py)
+* [汉明距离](./primary/Others/question_2.py)
 
 
 ## 题库

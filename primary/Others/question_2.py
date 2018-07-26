@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time     : 2018/6/27 23:11
 # @Author   : cancan
-# @File     : method_1.py
+# @File     : question_2.py
 # @Function : 汉明距离
 
 """
