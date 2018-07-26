@@ -65,6 +65,7 @@
 * [位1的个数](./primary/Others/question_1.py)
 * [汉明距离](./primary/Others/question_2.py)
 * [颠倒二进制位](./primary/Others/question_3.py)
+* [杨辉三角](./primary/Others/question_4.py)
 
 
 ## 题库
