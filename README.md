@@ -68,6 +68,7 @@
 * [颠倒二进制位](./primary/Others/question_3.py)
 * [杨辉三角](./primary/Others/question_4.py)
 * [有效的括号](./primary/Others/question_5.py)
+* [缺失数字](./primary/Others/question_6.py)
 
 
 ## 题库
@@ -140,6 +141,7 @@
 242 [有效的字母异位词](./questionBank/242.Valid%20Anagram/)<br>
 258 [各位相加](./questionBank/258.Add%20Digits/)<br>
 260 [只出现一次的数字 III](./questionBank/260.Single%20Number%20III/)<br>
+268 [缺失数字](./questionBank/268.Missing%20Number/)<br>
 278 [第一个错误的版本](./questionBank/278.First%20Bad%20Version/)<br>
 283 [移动零](./questionBank/283.Move%20Zeroes/)<br>
 287 [寻找重复数](./questionBank/287.Find%20the%20Duplicate%20Number/)<br>
