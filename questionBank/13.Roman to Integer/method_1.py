@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # @Time     : 2018/7/28 下午1:22
 # @Author   : cancan
-# @File     : question_4.py
+# @File     : method_4.py
 # @Function : 罗马数字转整数
 
 """

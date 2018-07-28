@@ -67,6 +67,7 @@
 * [汉明距离](./primary/Others/question_2.py)
 * [颠倒二进制位](./primary/Others/question_3.py)
 * [杨辉三角](./primary/Others/question_4.py)
+* [有效的括号](./primary/Others/question_5.py)
 
 
 ## 题库
@@ -83,6 +84,7 @@
 13 [罗马数字转整数](./questionBank/13.Roman%20to%20Integer/)<br>
 14 [最长公共前缀](./questionBank/14.Longest%20Common%20Prefix/)<br>
 19 [删除链表的倒数第N个节点](./questionBank/19.Remove%20Nth%20Node%20From%20End%20of%20List/)<br>
+20 [有效的括号](./questionBank/20.Valid%20Parentheses/)<br>
 21 [合并两个有序链表](./questionBank/21.Merge%20Two%20Sorted%20Lists/)<br>
 26 [从排序数组中删除重复项](./questionBank/26.Remove%20Duplicates%20from%20Sorted%20Array/)<br>
 27 [移除元素](./questionBank/27.Remove%20Element/)<br>
