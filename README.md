@@ -60,12 +60,15 @@
 * [Fizz Buzz](./primary/Math/question_1.py)
 * [计数质数](./primary/Math/question_2.py)
 * [3的幂](./primary/Math/question_3.py)
+* [罗马数字转整数](./primary/Math/question_4.py)
 
 #### 其他
 * [位1的个数](./primary/Others/question_1.py)
 * [汉明距离](./primary/Others/question_2.py)
 * [颠倒二进制位](./primary/Others/question_3.py)
 * [杨辉三角](./primary/Others/question_4.py)
+* [有效的括号](./primary/Others/question_5.py)
+* [缺失数字](./primary/Others/question_6.py)
 
 
 ## 题库
@@ -79,8 +82,10 @@
 8 [字符串转整数（atoi）](./questionBank/8.String%20to%20Integer%20(atoi)/)<br>
 9 [回文数](./questionBank/9.Palindrome%20Number/)<br>
 11 [盛最多水的容器](./questionBank/11.Container%20With%20Most%20Water/)<br>
+13 [罗马数字转整数](./questionBank/13.Roman%20to%20Integer/)<br>
 14 [最长公共前缀](./questionBank/14.Longest%20Common%20Prefix/)<br>
 19 [删除链表的倒数第N个节点](./questionBank/19.Remove%20Nth%20Node%20From%20End%20of%20List/)<br>
+20 [有效的括号](./questionBank/20.Valid%20Parentheses/)<br>
 21 [合并两个有序链表](./questionBank/21.Merge%20Two%20Sorted%20Lists/)<br>
 26 [从排序数组中删除重复项](./questionBank/26.Remove%20Duplicates%20from%20Sorted%20Array/)<br>
 27 [移除元素](./questionBank/27.Remove%20Element/)<br>
@@ -136,6 +141,7 @@
 242 [有效的字母异位词](./questionBank/242.Valid%20Anagram/)<br>
 258 [各位相加](./questionBank/258.Add%20Digits/)<br>
 260 [只出现一次的数字 III](./questionBank/260.Single%20Number%20III/)<br>
+268 [缺失数字](./questionBank/268.Missing%20Number/)<br>
 278 [第一个错误的版本](./questionBank/278.First%20Bad%20Version/)<br>
 283 [移动零](./questionBank/283.Move%20Zeroes/)<br>
 287 [寻找重复数](./questionBank/287.Find%20the%20Duplicate%20Number/)<br>
@@ -171,7 +177,6 @@
 804 [唯一摩尔斯密码词](./questionBank/804.Unique%20Morse%20Code%20Words/)<br>
 832 [翻转图像](./questionBank/832.Flipping%20an%20Image/)<br>
 852 [山脉数组的峰顶索引](./questionBank/852.Peak%20Index%20in%20a%20Mountain%20Array/)<br>
-<!-- 7 [](./questionBank//)<br> -->
 
 ## 声明
 代码仅供参考，如有不恰当、不正确的地方，欢迎批评指正，谢谢……
