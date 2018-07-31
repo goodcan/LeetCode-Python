@@ -180,6 +180,7 @@
 832 [翻转图像](./questionBank/832.Flipping%20an%20Image/)<br>
 852 [山脉数组的峰顶索引](./questionBank/852.Peak%20Index%20in%20a%20Mountain%20Array/)<br>
 867 [转置矩阵](./questionBank/867.Transpose%20Matrix/)<br>
+876 [链表的中间结点](./questionBank/876.Middle%20of%20the%20Linked%20List/)<br>
 
 ## 声明
 代码仅供参考，如有不恰当、不正确的地方，欢迎批评指正，谢谢……
