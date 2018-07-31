@@ -165,7 +165,7 @@
 445 [两数相加 II](./questionBank/445.Add%20Two%20Numbers%20II/)<br>
 451 [根据字符出现频率排序](./questionBank/451.Sort%20Characters%20By%20Frequency/)<br>
 461 [汉明距离](./questionBank/461.Hamming%20Distance/)<br>
-476 [数字的补数](./questionBank/476.Number%20Complement/)<br>
+476 [数字的补数](.p/questionBank/476.Number%20Complement/)<br>
 485 [最大连续1的个数](./questionBank/485.Max%20Consecutive%20Ones/)<br>
 520 [检测大写字母](./questionBank/520.Detect%20Capital/)<br>
 551 [学生出勤纪录 I](./questionBank/551.Student%20Attendance%20Record%20I/)<br>
@@ -179,6 +179,7 @@
 804 [唯一摩尔斯密码词](./questionBank/804.Unique%20Morse%20Code%20Words/)<br>
 832 [翻转图像](./questionBank/832.Flipping%20an%20Image/)<br>
 852 [山脉数组的峰顶索引](./questionBank/852.Peak%20Index%20in%20a%20Mountain%20Array/)<br>
+867 [转置矩阵](./questionBank/867.Transpose%20Matrix/)<br>
 
 ## 声明
 代码仅供参考，如有不恰当、不正确的地方，欢迎批评指正，谢谢……
