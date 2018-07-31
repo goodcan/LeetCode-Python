@@ -149,6 +149,7 @@
 290 [单词模式](./questionBank/290.Word%20Pattern/)<br>
 303 [区域和检索 - 数组不可变](./questionBank/303.Range%20Sum%20Query%20-%20Immutable/)<br>
 326 [3的幂](./questionBank/326.Power%20of%20Three/)<br>
+338 [Bit位计数](./questionBank/338.Counting%20Bits/)<br>
 342 [4的幂](./questionBank/342.Power%20of%20Four/)<br>
 344 [反转字符串](./questionBank/344.Reverse%20String/)<br>
 349 [两个数组的交集](./questionBank/349.Intersection%20of%20Two%20Arrays/)<br>
