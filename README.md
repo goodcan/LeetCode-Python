@@ -140,6 +140,7 @@
 234 [回文链表](./questionBank/234.Palindrome%20Linked%20List/)<br>
 237 [删除链表的结点](./questionBank/237.Delete%20Node%20in%20a%20Linked%20List/)<br>
 242 [有效的字母异位词](./questionBank/242.Valid%20Anagram/)<br>
+257 [二叉树的所有路径](./questionBank/257.Binary%20Tree%20Paths/)<br>
 258 [各位相加](./questionBank/258.Add%20Digits/)<br>
 260 [只出现一次的数字 III](./questionBank/260.Single%20Number%20III/)<br>
 268 [缺失数字](./questionBank/268.Missing%20Number/)<br>
