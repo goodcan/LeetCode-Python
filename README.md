@@ -172,6 +172,7 @@
 520 [检测大写字母](./questionBank/520.Detect%20Capital/)<br>
 551 [学生出勤纪录 I](./questionBank/551.Student%20Attendance%20Record%20I/)<br>
 557 [反转字符串中的单词 III](./questionBank/557.Reverse%20Words%20in%20a%20String%20III/)<br>
+559 [N叉树的最大深度](./questionBank/559.Maximum%20Depth%20of%20N-ary%20Tree/)<br>
 637 [二叉树的层平均值](./questionBank/637.Average%20of%20Levels%20in%20Binary%20Tree/)<br>
 648 [单词替换](./questionBank/648.Replace%20Words/)<br>
 693 [交替位二进制数](./questionBank/693.Binary%20Number%20with%20Alternating%20Bits/)<br>
