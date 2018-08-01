@@ -146,6 +146,7 @@
 268 [缺失数字](./questionBank/268.Missing%20Number/)<br>
 278 [第一个错误的版本](./questionBank/278.First%20Bad%20Version/)<br>
 283 [移动零](./questionBank/283.Move%20Zeroes/)<br>
+284 [顶端迭代器](./questionBank/284.Peeking%20Iterator/)<br>
 287 [寻找重复数](./questionBank/287.Find%20the%20Duplicate%20Number/)<br>
 290 [单词模式](./questionBank/290.Word%20Pattern/)<br>
 303 [区域和检索 - 数组不可变](./questionBank/303.Range%20Sum%20Query%20-%20Immutable/)<br>
