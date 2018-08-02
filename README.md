@@ -141,6 +141,7 @@
 225 [用队列实现栈](./questionBank/225.Implement%20Stack%20using%20Queues/)<br>
 226 [翻转二叉树](./questionBank/226.Invert%20Binary%20Tree/)<br>
 231 [2的幂](./questionBank/231.Power%20of%20Two/)<br>
+232 [用栈实现队列](./questionBank/232.Implement%20Queue%20using%20Stacks/)<br>
 234 [回文链表](./questionBank/234.Palindrome%20Linked%20List/)<br>
 237 [删除链表的结点](./questionBank/237.Delete%20Node%20in%20a%20Linked%20List/)<br>
 242 [有效的字母异位词](./questionBank/242.Valid%20Anagram/)<br>
