@@ -184,6 +184,7 @@
 637 [二叉树的层平均值](./questionBank/637.Average%20of%20Levels%20in%20Binary%20Tree/)<br>
 648 [单词替换](./questionBank/648.Replace%20Words/)<br>
 693 [交替位二进制数](./questionBank/693.Binary%20Number%20with%20Alternating%20Bits/)<br>
+705 [设计哈希集合](./questionBank/705.Design%20HashSet/)<br>
 706 [设计哈希映射](./questionBank/706.Design%20HashMap/)<br>
 709 [转换成小写字母](./questionBank/709.To%20Lower%20Case/)<br>
 728 [自除数](./questionBank/728.Self%20Dividing%20Numbers/)<br>
