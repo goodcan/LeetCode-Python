@@ -160,6 +160,7 @@
 349 [两个数组的交集](./questionBank/349.Intersection%20of%20Two%20Arrays/)<br>
 350 [两个数组的交集 II](./questionBank/350.Intersection%20of%20Two%20Arrays%20II/)<br>
 371 [两整数之和](./questionBank/371.Sum%20of%20Two%20Integers/)<br>
+382 [链表随机节点](./questionBank/382.Linked%20List%20Random%20Node/)<br>
 384 [打乱数组](./questionBank/384.Shuffle%20an%20Array/)<br>
 387 [字符串中的第一个唯一字符](./questionBank/387.First%20Unique%20Character%20in%20a%20String/)<br>
 389 [找不同](./questionBank/389.Find%20the%20Difference/)<br>
