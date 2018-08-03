@@ -191,6 +191,7 @@
 706 [设计哈希映射](./questionBank/706.Design%20HashMap/)<br>
 709 [转换成小写字母](./questionBank/709.To%20Lower%20Case/)<br>
 728 [自除数](./questionBank/728.Self%20Dividing%20Numbers/)<br>
+744 [寻找比目标字母大的最小字母](./questionBank/744.Find%20Smallest%20Letter%20Greater%20Than%20Target/)<br>
 771 [宝石与石头](./questionBank/771.Jewels%20and%20Stones/)<br>
 804 [唯一摩尔斯密码词](./questionBank/804.Unique%20Morse%20Code%20Words/)<br>
 832 [翻转图像](./questionBank/832.Flipping%20an%20Image/)<br>
