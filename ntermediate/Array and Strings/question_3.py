@@ -2,7 +2,7 @@
 # @Time     : 2018/8/4 下午7:10
 # @Author   : cancan
 # @File     : question_3.py
-# @Function : 字母异位词分组
+# @Function : 字谜分组
 
 """
 Question:
