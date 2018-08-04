@@ -70,6 +70,10 @@
 * [有效的括号](./primary/Others/question_5.py)
 * [缺失数字](./primary/Others/question_6.py)
 
+### 中级算法
+#### 数组和字符串
+* [字谜分组](./ntermediate/Array%20and%20Strings/question_3.py)
+
 ### 高级算法
 #### 数组和字符串
 * [寻找重复数](./advanced/Array%20and%20Strings/question_8.py)
