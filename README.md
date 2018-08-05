@@ -72,7 +72,10 @@
 
 ### 中级算法
 #### 数组和字符串
-* [字谜分组](./ntermediate/Array%20and%20Strings/question_3.py)
+* [字谜分组](./intermediate/Array%20and%20Strings/question_3.py)
+
+#### 链表
+* [两数相加](./intermediate/Linked%20List/question_1.py)
 
 ### 高级算法
 #### 数组和字符串
