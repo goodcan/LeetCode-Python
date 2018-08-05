@@ -40,17 +40,7 @@ class Solution(object):
         if not root:
             return []
         r = [[root.val]]
-        n = []
-        t = []
-        if root.left:
-            t.append(root.left)
-            n.append(root.left.val)
-        if root.right:
-            t.append(root.right)
-            n.append(root.right.val)
-
-        if n:
-            r.append(n)
+        t = [root]
 
         while t:
             p = []
