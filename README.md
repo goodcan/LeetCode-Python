@@ -82,6 +82,7 @@
 
 #### 排序和搜索
 * [颜色分类](./intermediate/Sorting%20and%20Searching/question_1.py)
+* [前K个高频元素](./intermediate/Sorting%20and%20Searching/question_2.py)
 
 ### 高级算法
 #### 数组和字符串
