@@ -177,6 +177,7 @@
 338 [Bit位计数](./questionBank/338.Counting%20Bits/)<br>
 342 [4的幂](./questionBank/342.Power%20of%20Four/)<br>
 344 [反转字符串](./questionBank/344.Reverse%20String/)<br>
+347 [前K个高频元素](./questionBank/347.Top%20K%20Frequent%20Elements/)<br>
 349 [两个数组的交集](./questionBank/349.Intersection%20of%20Two%20Arrays/)<br>
 350 [两个数组的交集 II](./questionBank/350.Intersection%20of%20Two%20Arrays%20II/)<br>
 371 [两整数之和](./questionBank/371.Sum%20of%20Two%20Integers/)<br>
