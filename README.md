@@ -149,6 +149,7 @@
 151 [翻转字符串里的单词](./questionBank/151.Reverse%20Words%20in%20a%20String/)<br>
 155 [最小栈](./questionBank/155.Min%20Stack/)<br>
 164 [最大间距](./questionBank/164.Maximum%20Gap/)<br>
+162 [寻找峰值](./questionBank/162.Find%20Peak%20Element/)<br>
 169 [求众数](./questionBank/169.Majority%20Element/)<br>
 189 [旋转数据](./questionBank/189.Rotate%20Array/)<br>
 190 [颠倒二进制位](./questionBank/190.Reverse%20Bits/)<br>
