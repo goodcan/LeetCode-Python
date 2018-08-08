@@ -85,6 +85,7 @@
 * [前K个高频元素](./intermediate/Sorting%20and%20Searching/question_2.py)
 * [数组中的第K个最大元素](./intermediate/Sorting%20and%20Searching/question_3.py)
 * [寻找峰值](./intermediate/Sorting%20and%20Searching/question_4.py)
+* [在排序数组中查找元素的第一个和最后一个位置](./intermediate/Sorting%20and%20Searching/question_5.py)
 
 ### 高级算法
 #### 数组和字符串
