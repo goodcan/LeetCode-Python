@@ -110,6 +110,7 @@
 26 [从排序数组中删除重复项](./questionBank/26.Remove%20Duplicates%20from%20Sorted%20Array/)<br>
 27 [移除元素](./questionBank/27.Remove%20Element/)<br>
 28 [实现strStr](./questionBank/28.Implement%20strStr()/)<br>
+33 [搜索旋转排序数组](./questionBank/33.Search%20in%20Rotated%20Sorted%20Array/)<br>
 34 [在排序数组中查找元素的第一个和最后一个位置](./questionBank/34.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/)<br>
 35 [搜索插入位置](./questionBank/35.Search%20Insert%20Position/)<br>
 36 [有效的数独](./questionBank/36.Valid%20Sudoku/)<br>
