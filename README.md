@@ -87,6 +87,7 @@
 * [寻找峰值](./intermediate/Sorting%20and%20Searching/question_4.py)
 * [在排序数组中查找元素的第一个和最后一个位置](./intermediate/Sorting%20and%20Searching/question_5.py)
 * [搜索旋转排序数组](./intermediate/Sorting%20and%20Searching/question_7.py)
+* [搜索二维矩阵 II](./intermediate/Sorting%20and%20Searching/question_8.py)
 
 ### 高级算法
 #### 数组和字符串
