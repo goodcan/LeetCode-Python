@@ -91,6 +91,7 @@
 
 #### 数学
 * [Pow(x, n)](./intermediate/Math/question_4.py)
+* [x 的平方根](./intermediate/Math/question_5.py)
 
 ### 高级算法
 #### 数组和字符串
