@@ -128,6 +128,7 @@
 58 [最后一个单词的长度](./questionBank/58.Length%20of%20Last%20Word/)<br>
 66 [加一](./questionBank/66.Plus%20One/)<br>
 67 [二进制求和](./questionBank/67.Add%20Binary/)<br>
+69 [x 的平方根](./questionBank/69.Sqrt(x)/)<br>
 70 [爬楼梯](./questionBank/70.Climbing%20Stairs/)<br>
 75 [颜色分类](./questionBank/75.Sort%20Colors/)<br>
 82 [删除排序链表中的重复元素 II](./questionBank/82.Remove%20Duplicates%20from%20Sorted%20List%20II/)<br>
