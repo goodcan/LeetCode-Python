@@ -93,6 +93,9 @@
 * [Pow(x, n)](./intermediate/Math/question_4.py)
 * [x 的平方根](./intermediate/Math/question_5.py)
 
+#### 其他
+* [求众数](./intermediate/Others/question_3.py)
+
 ### 高级算法
 #### 数组和字符串
 * [寻找重复数](./advanced/Array%20and%20Strings/question_8.py)
