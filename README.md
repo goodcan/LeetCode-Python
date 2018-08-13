@@ -100,6 +100,9 @@
 #### 数组和字符串
 * [寻找重复数](./advanced/Array%20and%20Strings/question_8.py)
 
+#### 链表
+* [链表排序](./advanced/Linked%20List/question_2.py)
+
 ## 题库
 > 编号对应 LeetCode 题号
 
