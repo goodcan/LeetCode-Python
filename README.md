@@ -235,6 +235,7 @@
 762 [二进制表示中质数个计算置位](./questionBank/762.Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/)<br>
 771 [宝石与石头](./questionBank/771.Jewels%20and%20Stones/)<br>
 804 [唯一摩尔斯密码词](./questionBank/804.Unique%20Morse%20Code%20Words/)<br>
+807 [保持城市天际线](./questionBank/807.Max%20Increase%20to%20Keep%20City%20Skyline/)<br>
 832 [翻转图像](./questionBank/832.Flipping%20an%20Image/)<br>
 852 [山脉数组的峰顶索引](./questionBank/852.Peak%20Index%20in%20a%20Mountain%20Array/)<br>
 867 [转置矩阵](./questionBank/867.Transpose%20Matrix/)<br>
