@@ -223,6 +223,7 @@
 557 [反转字符串中的单词 III](./questionBank/557.Reverse%20Words%20in%20a%20String%20III/)<br>
 559 [N叉树的最大深度](./questionBank/559.Maximum%20Depth%20of%20N-ary%20Tree/)<br>
 589 [N叉树的前序遍历](./questionBank/589.N-ary%20Tree%20Preorder%20Traversal/)<br>
+590 [N叉树的后序遍历](./questionBank/590.N-ary%20Tree%20Postorder%20Traversal/)<br>
 637 [二叉树的层平均值](./questionBank/637.Average%20of%20Levels%20in%20Binary%20Tree/)<br>
 648 [单词替换](./questionBank/648.Replace%20Words/)<br>
 693 [交替位二进制数](./questionBank/693.Binary%20Number%20with%20Alternating%20Bits/)<br>
