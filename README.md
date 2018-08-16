@@ -235,6 +235,7 @@
 704 [二分查找](./questionBank/704.Binary%20Search/)<br>
 705 [设计哈希集合](./questionBank/705.Design%20HashSet/)<br>
 706 [设计哈希映射](./questionBank/706.Design%20HashMap/)<br>
+707 [设计链表](./questionBank/707.Design%20Linked%20List/)<br>
 709 [转换成小写字母](./questionBank/709.To%20Lower%20Case/)<br>
 728 [自除数](./questionBank/728.Self%20Dividing%20Numbers/)<br>
 744 [寻找比目标字母大的最小字母](./questionBank/744.Find%20Smallest%20Letter%20Greater%20Than%20Target/)<br>
