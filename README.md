@@ -210,6 +210,7 @@
 397 [整数替换](./questionBank/397.Integer%20Replacement/)<br>
 404 [左叶子之和](./questionBank/404.Sum%20of%20Left%20Leaves/)<br>
 412 [Fizz Buzz](./questionBank/412.Fizz%20Buzz/)<br>
+414 [第三大的数](./questionBank/414.Third%20Maximum%20Number/)<br>
 415 [字符串相加](./questionBank/415.Add%20Strings/)<br>
 429 [N叉树的层序遍历](./questionBank/429.N-ary%20Tree%20Level%20Order%20Traversal/)<br>
 434 [字符串中的单词数](./questionBank/434.Number%20of%20Segments%20in%20a%20String/)<br>
