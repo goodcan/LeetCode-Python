@@ -229,6 +229,7 @@
 637 [二叉树的层平均值](./questionBank/637.Average%20of%20Levels%20in%20Binary%20Tree/)<br>
 648 [单词替换](./questionBank/648.Replace%20Words/)<br>
 693 [交替位二进制数](./questionBank/693.Binary%20Number%20with%20Alternating%20Bits/)<br>
+700 [二叉搜索树中的搜索](./questionBank/700.Search%20in%20a%20Binary%20Search%20Tree/)<br>
 704 [二分查找](./questionBank/704.Binary%20Search/)<br>
 705 [设计哈希集合](./questionBank/705.Design%20HashSet/)<br>
 706 [设计哈希映射](./questionBank/706.Design%20HashMap/)<br>
