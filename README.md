@@ -118,6 +118,7 @@
 
 #### 小结
 * [合并两个有序链表](./linked%20list/Conclusion/question_1.py)
+* [两数相加](./linked%20list/Conclusion/question_2.py)
 
 ## 题库
 > 编号对应 LeetCode 题号
