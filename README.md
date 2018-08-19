@@ -114,6 +114,7 @@
 
 #### 经典问题
 * [反转链表](./linked%20list/Classic%20Problems/question_1.py)
+* [回文链表](./linked%20list/Classic%20Problems/question_5.py)
 
 ## 题库
 > 编号对应 LeetCode 题号
