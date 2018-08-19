@@ -125,146 +125,146 @@
 ## 题库
 > 编号对应 LeetCode 题号
 
-1 [两数之和](./questionBank/1.Two%20Sun/)<br>
-2 [两数相加](./questionBank/2.Add%20Two%20Numbers/)<br>
-3 [无重复字符的最长子串](./questionBank/3.Longest%20Substring%20Without%20Repeating%20Characters/)<br>
-4 [两个排序数组的中位数](./questionBank/4.Median%20of%20Two%20Sorted%20Arrays/)<br>
-7 [颠倒整数](./questionBank/7.Reverse%20Integer/)<br>
-8 [字符串转整数（atoi）](./questionBank/8.String%20to%20Integer%20(atoi)/)<br>
-9 [回文数](./questionBank/9.Palindrome%20Number/)<br>
-11 [盛最多水的容器](./questionBank/11.Container%20With%20Most%20Water/)<br>
-13 [罗马数字转整数](./questionBank/13.Roman%20to%20Integer/)<br>
-14 [最长公共前缀](./questionBank/14.Longest%20Common%20Prefix/)<br>
-19 [删除链表的倒数第N个节点](./questionBank/19.Remove%20Nth%20Node%20From%20End%20of%20List/)<br>
-20 [有效的括号](./questionBank/20.Valid%20Parentheses/)<br>
-21 [合并两个有序链表](./questionBank/21.Merge%20Two%20Sorted%20Lists/)<br>
-26 [从排序数组中删除重复项](./questionBank/26.Remove%20Duplicates%20from%20Sorted%20Array/)<br>
-27 [移除元素](./questionBank/27.Remove%20Element/)<br>
-28 [实现strStr](./questionBank/28.Implement%20strStr()/)<br>
-33 [搜索旋转排序数组](./questionBank/33.Search%20in%20Rotated%20Sorted%20Array/)<br>
-34 [在排序数组中查找元素的第一个和最后一个位置](./questionBank/34.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/)<br>
-35 [搜索插入位置](./questionBank/35.Search%20Insert%20Position/)<br>
-36 [有效的数独](./questionBank/36.Valid%20Sudoku/)<br>
-38 [数数并说](./questionBank/38.Count%20and%20Say/)<br>
-46 [全排列](./questionBank/46.Permutations/)<br>
-48 [旋转图像](./questionBank/48.Rotate%20Image/)<br>
-49 [字母异位词分组](./questionBank/49.Group%20Anagrams/)<br>
-50 [Pow(x, n)](./questionBank/50.Pow(x,%20n)/)<br>
-53 [最大子序和](./questionBank/53.Maximum%20Subarray/)<br>
-58 [最后一个单词的长度](./questionBank/58.Length%20of%20Last%20Word/)<br>
-66 [加一](./questionBank/66.Plus%20One/)<br>
-67 [二进制求和](./questionBank/67.Add%20Binary/)<br>
-69 [x 的平方根](./questionBank/69.Sqrt(x)/)<br>
-70 [爬楼梯](./questionBank/70.Climbing%20Stairs/)<br>
-75 [颜色分类](./questionBank/75.Sort%20Colors/)<br>
-82 [删除排序链表中的重复元素 II](./questionBank/82.Remove%20Duplicates%20from%20Sorted%20List%20II/)<br>
-83 [删除排序链表中的重复元素](./questionBank/83.Remove%20Duplicates%20from%20Sorted%20List/)<br>
-88 [合并两个有序数组](./questionBank/88.Merge%20Sorted%20Array/)<br>
-94 [二叉树的中序遍历](./questionBank/94.Binary%20Tree%20Inorder%20Traversal/)<br>
-98 [验证二叉搜索树](./questionBank/98.Validate%20Binary%20Search%20Tree/)<br>
-100 [相同的树](./questionBank/100.Same%20Tree/)<br>
-101 [对称二叉树](./questionBank/101.Symmetric%20Tree/)<br>
-102 [二叉树的层次遍历](./questionBank/102.Binary%20Tree%20Level%20Order%20Traversal/)<br>
-104 [二叉树的最大深度](./questionBank/104.Maximum%20Depth%20of%20Binary%20Tree/)<br>
-107 [二叉树的层次遍历 II](./questionBank/107.Binary%20Tree%20Level%20Order%20Traversal%20II/)<br>
-108 [将有序数组转换为二叉搜索树](./questionBank/108.Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/)<br>
-114 [二叉树展开为链表](./questionBank/114.Flatten%20Binary%20Tree%20to%20Linked%20List/)<br>
-116 [填充同一层的兄弟节点](./questionBank/116.Populating%20Next%20Right%20Pointers%20in%20Each%20Node/)<br>
-118 [杨辉三角](./questionBank/118.Pascal's%20Triangle/)<br>
-119 [杨辉三角 II](./questionBank/119..Pascal's%20Triangle%20II/)<br>
-121 [买卖股票的最佳时机](./questionBank/121.Best%20Time%20to%20Buy%20and%20Sell%20Stock/)<br>
-122 [买卖股票的最佳时机](./questionBank/122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/)<br>
-125 [验证回文字符串](./questionBank/125.Valid%20Palindrome/)<br>
-136 [只出现一次的数字](./questionBank/136.Single%20Number/)<br>
-137 [只出现一次的数字 II](./questionBank/137.Single%20Number%20II/)<br>
-141 [环形链表](./questionBank/141.Linked%20List%20Cycle/)<br>
-144 [二叉树的前序遍历](./questionBank/144.Binary%20Tree%20Preorder%20Traversal/)<br>
-145 [二叉树的后序遍历](./questionBank/145.Binary%20Tree%20Postorder%20Traversal/)<br>
-148 [排序链表](./questionBank/148.Sort%20List/)<br>
-151 [翻转字符串里的单词](./questionBank/151.Reverse%20Words%20in%20a%20String/)<br>
-155 [最小栈](./questionBank/155.Min%20Stack/)<br>
-164 [最大间距](./questionBank/164.Maximum%20Gap/)<br>
-162 [寻找峰值](./questionBank/162.Find%20Peak%20Element/)<br>
-169 [求众数](./questionBank/169.Majority%20Element/)<br>
-189 [旋转数据](./questionBank/189.Rotate%20Array/)<br>
-190 [颠倒二进制位](./questionBank/190.Reverse%20Bits/)<br>
-191 [位1的个数](./questionBank/191.Number%20of%201%20Bits/)<br>
-198 [打家劫舍](./questionBank/198.House%20Robber/)<br>
-203 [删除链表中的节点](./questionBank/203.Remove%20Linked%20List%20Elements/)<br>
-204 [计数质数](./questionBank/204.Count%20Primes/)<br>
-206 [反转链表](./questionBank/206.Reverse%20Linked%20List/)<br>
-215 [数组中的第K个最大元素](./questionBank/215.Kth%20Largest%20Element%20in%20an%20Array/)<br>
-217 [存在重复](./questionBank/217.Contains%20Duplicate/)<br>
-225 [用队列实现栈](./questionBank/225.Implement%20Stack%20using%20Queues/)<br>
-226 [翻转二叉树](./questionBank/226.Invert%20Binary%20Tree/)<br>
-230 [二叉搜索树中第K小的元素](./questionBank/230.Kth%20Smallest%20Element%20in%20a%20BST/)<br>
-231 [2的幂](./questionBank/231.Power%20of%20Two/)<br>
-232 [用栈实现队列](./questionBank/232.Implement%20Queue%20using%20Stacks/)<br>
-234 [回文链表](./questionBank/234.Palindrome%20Linked%20List/)<br>
-237 [删除链表的结点](./questionBank/237.Delete%20Node%20in%20a%20Linked%20List/)<br>
-240 [搜索二维矩阵 II](./questionBank/240.Search%20a%202D%20Matrix%20II/)<br>
-242 [有效的字母异位词](./questionBank/242.Valid%20Anagram/)<br>
-257 [二叉树的所有路径](./questionBank/257.Binary%20Tree%20Paths/)<br>
-258 [各位相加](./questionBank/258.Add%20Digits/)<br>
-260 [只出现一次的数字 III](./questionBank/260.Single%20Number%20III/)<br>
-268 [缺失数字](./questionBank/268.Missing%20Number/)<br>
-278 [第一个错误的版本](./questionBank/278.First%20Bad%20Version/)<br>
-283 [移动零](./questionBank/283.Move%20Zeroes/)<br>
-284 [顶端迭代器](./questionBank/284.Peeking%20Iterator/)<br>
-287 [寻找重复数](./questionBank/287.Find%20the%20Duplicate%20Number/)<br>
-290 [单词模式](./questionBank/290.Word%20Pattern/)<br>
-303 [区域和检索 - 数组不可变](./questionBank/303.Range%20Sum%20Query%20-%20Immutable/)<br>
-326 [3的幂](./questionBank/326.Power%20of%20Three/)<br>
-338 [Bit位计数](./questionBank/338.Counting%20Bits/)<br>
-342 [4的幂](./questionBank/342.Power%20of%20Four/)<br>
-344 [反转字符串](./questionBank/344.Reverse%20String/)<br>
-347 [前K个高频元素](./questionBank/347.Top%20K%20Frequent%20Elements/)<br>
-349 [两个数组的交集](./questionBank/349.Intersection%20of%20Two%20Arrays/)<br>
-350 [两个数组的交集 II](./questionBank/350.Intersection%20of%20Two%20Arrays%20II/)<br>
-371 [两整数之和](./questionBank/371.Sum%20of%20Two%20Integers/)<br>
-382 [链表随机节点](./questionBank/382.Linked%20List%20Random%20Node/)<br>
-384 [打乱数组](./questionBank/384.Shuffle%20an%20Array/)<br>
-387 [字符串中的第一个唯一字符](./questionBank/387.First%20Unique%20Character%20in%20a%20String/)<br>
-389 [找不同](./questionBank/389.Find%20the%20Difference/)<br>
-397 [整数替换](./questionBank/397.Integer%20Replacement/)<br>
-404 [左叶子之和](./questionBank/404.Sum%20of%20Left%20Leaves/)<br>
-412 [Fizz Buzz](./questionBank/412.Fizz%20Buzz/)<br>
-414 [第三大的数](./questionBank/414.Third%20Maximum%20Number/)<br>
-415 [字符串相加](./questionBank/415.Add%20Strings/)<br>
-429 [N叉树的层序遍历](./questionBank/429.N-ary%20Tree%20Level%20Order%20Traversal/)<br>
-434 [字符串中的单词数](./questionBank/434.Number%20of%20Segments%20in%20a%20String/)<br>
-442 [数组中重复的数据](./questionBank/442.Find%20All%20Duplicates%20in%20an%20Array/)<br>
-445 [两数相加 II](./questionBank/445.Add%20Two%20Numbers%20II/)<br>
-451 [根据字符出现频率排序](./questionBank/451.Sort%20Characters%20By%20Frequency/)<br>
-461 [汉明距离](./questionBank/461.Hamming%20Distance/)<br>
-476 [数字的补数](.p/questionBank/476.Number%20Complement/)<br>
-485 [最大连续1的个数](./questionBank/485.Max%20Consecutive%20Ones/)<br>
-515 [在每个树行中找最大值](./questionBank/515.Find%20Largest%20Value%20in%20Each%20Tree%20Row/)<br>
-520 [检测大写字母](./questionBank/520.Detect%20Capital/)<br>
-551 [学生出勤纪录 I](./questionBank/551.Student%20Attendance%20Record%20I/)<br>
-557 [反转字符串中的单词 III](./questionBank/557.Reverse%20Words%20in%20a%20String%20III/)<br>
-559 [N叉树的最大深度](./questionBank/559.Maximum%20Depth%20of%20N-ary%20Tree/)<br>
-589 [N叉树的前序遍历](./questionBank/589.N-ary%20Tree%20Preorder%20Traversal/)<br>
-590 [N叉树的后序遍历](./questionBank/590.N-ary%20Tree%20Postorder%20Traversal/)<br>
-637 [二叉树的层平均值](./questionBank/637.Average%20of%20Levels%20in%20Binary%20Tree/)<br>
-648 [单词替换](./questionBank/648.Replace%20Words/)<br>
-693 [交替位二进制数](./questionBank/693.Binary%20Number%20with%20Alternating%20Bits/)<br>
-700 [二叉搜索树中的搜索](./questionBank/700.Search%20in%20a%20Binary%20Search%20Tree/)<br>
-704 [二分查找](./questionBank/704.Binary%20Search/)<br>
-705 [设计哈希集合](./questionBank/705.Design%20HashSet/)<br>
-706 [设计哈希映射](./questionBank/706.Design%20HashMap/)<br>
-707 [设计链表](./questionBank/707.Design%20Linked%20List/)<br>
-709 [转换成小写字母](./questionBank/709.To%20Lower%20Case/)<br>
-728 [自除数](./questionBank/728.Self%20Dividing%20Numbers/)<br>
-744 [寻找比目标字母大的最小字母](./questionBank/744.Find%20Smallest%20Letter%20Greater%20Than%20Target/)<br>
-762 [二进制表示中质数个计算置位](./questionBank/762.Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/)<br>
-771 [宝石与石头](./questionBank/771.Jewels%20and%20Stones/)<br>
-804 [唯一摩尔斯密码词](./questionBank/804.Unique%20Morse%20Code%20Words/)<br>
-807 [保持城市天际线](./questionBank/807.Max%20Increase%20to%20Keep%20City%20Skyline/)<br>
-832 [翻转图像](./questionBank/832.Flipping%20an%20Image/)<br>
-852 [山脉数组的峰顶索引](./questionBank/852.Peak%20Index%20in%20a%20Mountain%20Array/)<br>
-867 [转置矩阵](./questionBank/867.Transpose%20Matrix/)<br>
-876 [链表的中间结点](./questionBank/876.Middle%20of%20the%20Linked%20List/)<br>
+1 [两数之和](./QuestionBank/1.Two%20Sun/)<br>
+2 [两数相加](./QuestionBank/2.Add%20Two%20Numbers/)<br>
+3 [无重复字符的最长子串](./QuestionBank/3.Longest%20Substring%20Without%20Repeating%20Characters/)<br>
+4 [两个排序数组的中位数](./QuestionBank/4.Median%20of%20Two%20Sorted%20Arrays/)<br>
+7 [颠倒整数](./QuestionBank/7.Reverse%20Integer/)<br>
+8 [字符串转整数（atoi）](./QuestionBank/8.String%20to%20Integer%20(atoi)/)<br>
+9 [回文数](./QuestionBank/9.Palindrome%20Number/)<br>
+11 [盛最多水的容器](./QuestionBank/11.Container%20With%20Most%20Water/)<br>
+13 [罗马数字转整数](./QuestionBank/13.Roman%20to%20Integer/)<br>
+14 [最长公共前缀](./QuestionBank/14.Longest%20Common%20Prefix/)<br>
+19 [删除链表的倒数第N个节点](./QuestionBank/19.Remove%20Nth%20Node%20From%20End%20of%20List/)<br>
+20 [有效的括号](./QuestionBank/20.Valid%20Parentheses/)<br>
+21 [合并两个有序链表](./QuestionBank/21.Merge%20Two%20Sorted%20Lists/)<br>
+26 [从排序数组中删除重复项](./QuestionBank/26.Remove%20Duplicates%20from%20Sorted%20Array/)<br>
+27 [移除元素](./QuestionBank/27.Remove%20Element/)<br>
+28 [实现strStr](./QuestionBank/28.Implement%20strStr()/)<br>
+33 [搜索旋转排序数组](./QuestionBank/33.Search%20in%20Rotated%20Sorted%20Array/)<br>
+34 [在排序数组中查找元素的第一个和最后一个位置](./QuestionBank/34.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/)<br>
+35 [搜索插入位置](./QuestionBank/35.Search%20Insert%20Position/)<br>
+36 [有效的数独](./QuestionBank/36.Valid%20Sudoku/)<br>
+38 [数数并说](./QuestionBank/38.Count%20and%20Say/)<br>
+46 [全排列](./QuestionBank/46.Permutations/)<br>
+48 [旋转图像](./QuestionBank/48.Rotate%20Image/)<br>
+49 [字母异位词分组](./QuestionBank/49.Group%20Anagrams/)<br>
+50 [Pow(x, n)](./QuestionBank/50.Pow(x,%20n)/)<br>
+53 [最大子序和](./QuestionBank/53.Maximum%20Subarray/)<br>
+58 [最后一个单词的长度](./QuestionBank/58.Length%20of%20Last%20Word/)<br>
+66 [加一](./QuestionBank/66.Plus%20One/)<br>
+67 [二进制求和](./QuestionBank/67.Add%20Binary/)<br>
+69 [x 的平方根](./QuestionBank/69.Sqrt(x)/)<br>
+70 [爬楼梯](./QuestionBank/70.Climbing%20Stairs/)<br>
+75 [颜色分类](./QuestionBank/75.Sort%20Colors/)<br>
+82 [删除排序链表中的重复元素 II](./QuestionBank/82.Remove%20Duplicates%20from%20Sorted%20List%20II/)<br>
+83 [删除排序链表中的重复元素](./QuestionBank/83.Remove%20Duplicates%20from%20Sorted%20List/)<br>
+88 [合并两个有序数组](./QuestionBank/88.Merge%20Sorted%20Array/)<br>
+94 [二叉树的中序遍历](./QuestionBank/94.Binary%20Tree%20Inorder%20Traversal/)<br>
+98 [验证二叉搜索树](./QuestionBank/98.Validate%20Binary%20Search%20Tree/)<br>
+100 [相同的树](./QuestionBank/100.Same%20Tree/)<br>
+101 [对称二叉树](./QuestionBank/101.Symmetric%20Tree/)<br>
+102 [二叉树的层次遍历](./QuestionBank/102.Binary%20Tree%20Level%20Order%20Traversal/)<br>
+104 [二叉树的最大深度](./QuestionBank/104.Maximum%20Depth%20of%20Binary%20Tree/)<br>
+107 [二叉树的层次遍历 II](./QuestionBank/107.Binary%20Tree%20Level%20Order%20Traversal%20II/)<br>
+108 [将有序数组转换为二叉搜索树](./QuestionBank/108.Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/)<br>
+114 [二叉树展开为链表](./QuestionBank/114.Flatten%20Binary%20Tree%20to%20Linked%20List/)<br>
+116 [填充同一层的兄弟节点](./QuestionBank/116.Populating%20Next%20Right%20Pointers%20in%20Each%20Node/)<br>
+118 [杨辉三角](./QuestionBank/118.Pascal's%20Triangle/)<br>
+119 [杨辉三角 II](./QuestionBank/119..Pascal's%20Triangle%20II/)<br>
+121 [买卖股票的最佳时机](./QuestionBank/121.Best%20Time%20to%20Buy%20and%20Sell%20Stock/)<br>
+122 [买卖股票的最佳时机](./QuestionBank/122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/)<br>
+125 [验证回文字符串](./QuestionBank/125.Valid%20Palindrome/)<br>
+136 [只出现一次的数字](./QuestionBank/136.Single%20Number/)<br>
+137 [只出现一次的数字 II](./QuestionBank/137.Single%20Number%20II/)<br>
+141 [环形链表](./QuestionBank/141.Linked%20List%20Cycle/)<br>
+144 [二叉树的前序遍历](./QuestionBank/144.Binary%20Tree%20Preorder%20Traversal/)<br>
+145 [二叉树的后序遍历](./QuestionBank/145.Binary%20Tree%20Postorder%20Traversal/)<br>
+148 [排序链表](./QuestionBank/148.Sort%20List/)<br>
+151 [翻转字符串里的单词](./QuestionBank/151.Reverse%20Words%20in%20a%20String/)<br>
+155 [最小栈](./QuestionBank/155.Min%20Stack/)<br>
+164 [最大间距](./QuestionBank/164.Maximum%20Gap/)<br>
+162 [寻找峰值](./QuestionBank/162.Find%20Peak%20Element/)<br>
+169 [求众数](./QuestionBank/169.Majority%20Element/)<br>
+189 [旋转数据](./QuestionBank/189.Rotate%20Array/)<br>
+190 [颠倒二进制位](./QuestionBank/190.Reverse%20Bits/)<br>
+191 [位1的个数](./QuestionBank/191.Number%20of%201%20Bits/)<br>
+198 [打家劫舍](./QuestionBank/198.House%20Robber/)<br>
+203 [删除链表中的节点](./QuestionBank/203.Remove%20Linked%20List%20Elements/)<br>
+204 [计数质数](./QuestionBank/204.Count%20Primes/)<br>
+206 [反转链表](./QuestionBank/206.Reverse%20Linked%20List/)<br>
+215 [数组中的第K个最大元素](./QuestionBank/215.Kth%20Largest%20Element%20in%20an%20Array/)<br>
+217 [存在重复](./QuestionBank/217.Contains%20Duplicate/)<br>
+225 [用队列实现栈](./QuestionBank/225.Implement%20Stack%20using%20Queues/)<br>
+226 [翻转二叉树](./QuestionBank/226.Invert%20Binary%20Tree/)<br>
+230 [二叉搜索树中第K小的元素](./QuestionBank/230.Kth%20Smallest%20Element%20in%20a%20BST/)<br>
+231 [2的幂](./QuestionBank/231.Power%20of%20Two/)<br>
+232 [用栈实现队列](./QuestionBank/232.Implement%20Queue%20using%20Stacks/)<br>
+234 [回文链表](./QuestionBank/234.Palindrome%20Linked%20List/)<br>
+237 [删除链表的结点](./QuestionBank/237.Delete%20Node%20in%20a%20Linked%20List/)<br>
+240 [搜索二维矩阵 II](./QuestionBank/240.Search%20a%202D%20Matrix%20II/)<br>
+242 [有效的字母异位词](./QuestionBank/242.Valid%20Anagram/)<br>
+257 [二叉树的所有路径](./QuestionBank/257.Binary%20Tree%20Paths/)<br>
+258 [各位相加](./QuestionBank/258.Add%20Digits/)<br>
+260 [只出现一次的数字 III](./QuestionBank/260.Single%20Number%20III/)<br>
+268 [缺失数字](./QuestionBank/268.Missing%20Number/)<br>
+278 [第一个错误的版本](./QuestionBank/278.First%20Bad%20Version/)<br>
+283 [移动零](./QuestionBank/283.Move%20Zeroes/)<br>
+284 [顶端迭代器](./QuestionBank/284.Peeking%20Iterator/)<br>
+287 [寻找重复数](./QuestionBank/287.Find%20the%20Duplicate%20Number/)<br>
+290 [单词模式](./QuestionBank/290.Word%20Pattern/)<br>
+303 [区域和检索 - 数组不可变](./QuestionBank/303.Range%20Sum%20Query%20-%20Immutable/)<br>
+326 [3的幂](./QuestionBank/326.Power%20of%20Three/)<br>
+338 [Bit位计数](./QuestionBank/338.Counting%20Bits/)<br>
+342 [4的幂](./QuestionBank/342.Power%20of%20Four/)<br>
+344 [反转字符串](./QuestionBank/344.Reverse%20String/)<br>
+347 [前K个高频元素](./QuestionBank/347.Top%20K%20Frequent%20Elements/)<br>
+349 [两个数组的交集](./QuestionBank/349.Intersection%20of%20Two%20Arrays/)<br>
+350 [两个数组的交集 II](./QuestionBank/350.Intersection%20of%20Two%20Arrays%20II/)<br>
+371 [两整数之和](./QuestionBank/371.Sum%20of%20Two%20Integers/)<br>
+382 [链表随机节点](./QuestionBank/382.Linked%20List%20Random%20Node/)<br>
+384 [打乱数组](./QuestionBank/384.Shuffle%20an%20Array/)<br>
+387 [字符串中的第一个唯一字符](./QuestionBank/387.First%20Unique%20Character%20in%20a%20String/)<br>
+389 [找不同](./QuestionBank/389.Find%20the%20Difference/)<br>
+397 [整数替换](./QuestionBank/397.Integer%20Replacement/)<br>
+404 [左叶子之和](./QuestionBank/404.Sum%20of%20Left%20Leaves/)<br>
+412 [Fizz Buzz](./QuestionBank/412.Fizz%20Buzz/)<br>
+414 [第三大的数](./QuestionBank/414.Third%20Maximum%20Number/)<br>
+415 [字符串相加](./QuestionBank/415.Add%20Strings/)<br>
+429 [N叉树的层序遍历](./QuestionBank/429.N-ary%20Tree%20Level%20Order%20Traversal/)<br>
+434 [字符串中的单词数](./QuestionBank/434.Number%20of%20Segments%20in%20a%20String/)<br>
+442 [数组中重复的数据](./QuestionBank/442.Find%20All%20Duplicates%20in%20an%20Array/)<br>
+445 [两数相加 II](./QuestionBank/445.Add%20Two%20Numbers%20II/)<br>
+451 [根据字符出现频率排序](./QuestionBank/451.Sort%20Characters%20By%20Frequency/)<br>
+461 [汉明距离](./QuestionBank/461.Hamming%20Distance/)<br>
+476 [数字的补数](.p/QuestionBank/476.Number%20Complement/)<br>
+485 [最大连续1的个数](./QuestionBank/485.Max%20Consecutive%20Ones/)<br>
+515 [在每个树行中找最大值](./QuestionBank/515.Find%20Largest%20Value%20in%20Each%20Tree%20Row/)<br>
+520 [检测大写字母](./QuestionBank/520.Detect%20Capital/)<br>
+551 [学生出勤纪录 I](./QuestionBank/551.Student%20Attendance%20Record%20I/)<br>
+557 [反转字符串中的单词 III](./QuestionBank/557.Reverse%20Words%20in%20a%20String%20III/)<br>
+559 [N叉树的最大深度](./QuestionBank/559.Maximum%20Depth%20of%20N-ary%20Tree/)<br>
+589 [N叉树的前序遍历](./QuestionBank/589.N-ary%20Tree%20Preorder%20Traversal/)<br>
+590 [N叉树的后序遍历](./QuestionBank/590.N-ary%20Tree%20Postorder%20Traversal/)<br>
+637 [二叉树的层平均值](./QuestionBank/637.Average%20of%20Levels%20in%20Binary%20Tree/)<br>
+648 [单词替换](./QuestionBank/648.Replace%20Words/)<br>
+693 [交替位二进制数](./QuestionBank/693.Binary%20Number%20with%20Alternating%20Bits/)<br>
+700 [二叉搜索树中的搜索](./QuestionBank/700.Search%20in%20a%20Binary%20Search%20Tree/)<br>
+704 [二分查找](./QuestionBank/704.Binary%20Search/)<br>
+705 [设计哈希集合](./QuestionBank/705.Design%20HashSet/)<br>
+706 [设计哈希映射](./QuestionBank/706.Design%20HashMap/)<br>
+707 [设计链表](./QuestionBank/707.Design%20Linked%20List/)<br>
+709 [转换成小写字母](./QuestionBank/709.To%20Lower%20Case/)<br>
+728 [自除数](./QuestionBank/728.Self%20Dividing%20Numbers/)<br>
+744 [寻找比目标字母大的最小字母](./QuestionBank/744.Find%20Smallest%20Letter%20Greater%20Than%20Target/)<br>
+762 [二进制表示中质数个计算置位](./QuestionBank/762.Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/)<br>
+771 [宝石与石头](./QuestionBank/771.Jewels%20and%20Stones/)<br>
+804 [唯一摩尔斯密码词](./QuestionBank/804.Unique%20Morse%20Code%20Words/)<br>
+807 [保持城市天际线](./QuestionBank/807.Max%20Increase%20to%20Keep%20City%20Skyline/)<br>
+832 [翻转图像](./QuestionBank/832.Flipping%20an%20Image/)<br>
+852 [山脉数组的峰顶索引](./QuestionBank/852.Peak%20Index%20in%20a%20Mountain%20Array/)<br>
+867 [转置矩阵](./QuestionBank/867.Transpose%20Matrix/)<br>
+876 [链表的中间结点](./QuestionBank/876.Middle%20of%20the%20Linked%20List/)<br>
 
 ## 声明
 代码仅供参考，如有不恰当、不正确的地方，欢迎批评指正，谢谢……
