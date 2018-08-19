@@ -104,6 +104,10 @@
 #### 链表
 * [链表排序](./advanced/Linked%20List/question_2.py)
 
+### 链表
+#### 单链表
+* [设计链表](./inked%20List/Singly%20Linked%20List/question.py)
+
 ## 题库
 > 编号对应 LeetCode 题号
 
