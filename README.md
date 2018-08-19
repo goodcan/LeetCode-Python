@@ -108,19 +108,19 @@
 ### 学习
 #### 链表
 ##### 单链表
-* [设计链表](./linked%20list/Singly%20Linked%20List/question.py)
+* [设计链表](./Learn/Linked%20List/Singly%20Linked%20List/question.py)
 
 ##### 双指针技巧
-* [环形链表](./linked%20list/Two%20Pointer%20Technique/question_1.py)
-* [删除链表的倒数第N个节点](./linked%20list/Two%20Pointer%20Technique/question_4.py)
+* [环形链表](./Learn/Linked%20List/Two%20Pointer%20Technique/question_1.py)
+* [删除链表的倒数第N个节点](./Learn/Linked%20List/Two%20Pointer%20Technique/question_4.py)
 
 ##### 经典问题
-* [反转链表](./linked%20list/Classic%20Problems/question_1.py)
-* [回文链表](./linked%20list/Classic%20Problems/question_5.py)
+* [反转链表](./Learn/Linked%20List/Classic%20Problems/question_1.py)
+* [回文链表](./Learn/Linked%20List/Classic%20Problems/question_5.py)
 
 ##### 小结
-* [合并两个有序链表](./linked%20list/Conclusion/question_1.py)
-* [两数相加](./linked%20list/Conclusion/question_2.py)
+* [合并两个有序链表](./Learn/Linked%20List/Conclusion/question_1.py)
+* [两数相加](./Learn/Linked%20List/Conclusion/question_2.py)
 
 ## 题库
 > 编号对应 LeetCode 题号
