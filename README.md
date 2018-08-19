@@ -106,6 +106,10 @@
 * [链表排序](./Interview/Hard%20Collection/Linked%20List/question_2.py)
 
 ### 学习
+#### 数组和字符串
+##### 数组简介
+* [加一](Learn/Array%20and%20String/Introduction%20to%20Array/question_4.py)
+
 #### 链表
 ##### 单链表
 * [设计链表](./Learn/Linked%20List/Singly%20Linked%20List/question.py)
