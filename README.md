@@ -108,6 +108,9 @@
 #### 单链表
 * [设计链表](./inked%20List/Singly%20Linked%20List/question.py)
 
+#### 双指针技巧
+* [环形链表](./inked%20List/Two%20Pointer%20Technique/question_1.py)
+
 ## 题库
 > 编号对应 LeetCode 题号
 
