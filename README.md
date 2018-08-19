@@ -116,6 +116,9 @@
 * [反转链表](./linked%20list/Classic%20Problems/question_1.py)
 * [回文链表](./linked%20list/Classic%20Problems/question_5.py)
 
+#### 小结
+* [合并两个有序链表](./linked%20list/Conclusion/question_1.py)
+
 ## 题库
 > 编号对应 LeetCode 题号
 
