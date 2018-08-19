@@ -112,6 +112,9 @@
 * [环形链表](./inked%20List/Two%20Pointer%20Technique/question_1.py)
 * [删除链表的倒数第N个节点](./inked%20List/Two%20Pointer%20Technique/question_4.py)
 
+#### 经典问题
+* [反转链表](./inked%20List/Classic%20Problems/question_1.py)
+
 ## 题库
 > 编号对应 LeetCode 题号
 
