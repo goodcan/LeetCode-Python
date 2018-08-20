@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time     : 2018/8/20 10:59
 # @Author   : cancan
-# @File     : method_1.py
+# @File     : question_4.py
 # @Function : 移除元素
 
 """
@@ -23,8 +23,9 @@ class Solution(object):
         :type val: int
         :rtype: int
         """
-        while 1:
-            try:
-                nums.pop(nums.index(val))
-            except:
-                return len(nums)
+        l = len(nums)
+        d = 0
+        for i in range(l):
+            if nums[i - d] == val:
+                del nums[i - d]
+                d += 1
