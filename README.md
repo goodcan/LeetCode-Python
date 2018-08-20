@@ -116,6 +116,7 @@
 ##### 字符串简介
 * [二进制求和](./Learn/Array%20and%20String/Introduction%20to%20String/question_1.py)
 * [实现strStr()](./Learn/Array%20and%20String/Introduction%20to%20String/question_2.py)
+* [最长公共前缀](./Learn/Array%20and%20String/Introduction%20to%20String/question_3.py)
 
 #### 链表
 ##### 单链表
