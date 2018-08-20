@@ -113,6 +113,9 @@
 ##### 二维数组简介
 * [杨辉三角](./Learn/Array%20and%20String/Introduction%20to%202D%20Array/question_4.py)
 
+##### 字符串简介
+* [二进制求和](./Learn/Array%20and%20String/Introduction%20to%20String/question_1.py)
+
 #### 链表
 ##### 单链表
 * [设计链表](./Learn/Linked%20List/Singly%20Linked%20List/question.py)
