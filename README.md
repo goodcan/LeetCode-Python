@@ -123,6 +123,9 @@
 * [两数之和 II - 输入有序数组](./Learn/Array%20and%20String/Two-Pointer%20Technique/question_3.py)
 * [移除元素](./Learn/Array%20and%20String/Two-Pointer%20Technique/question_4.py)
 
+##### 小结
+* [旋转数据](./Learn/Array%20and%20String/Conclusion/question_1.py)
+
 #### 链表
 ##### 单链表
 * [设计链表](./Learn/Linked%20List/Singly%20Linked%20List/question.py)
