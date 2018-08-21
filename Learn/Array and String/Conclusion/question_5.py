@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # @Time     : 2018/4/7 下午10:52
 # @Author   : cancan
-# @File     : method_1.py
+# @File     : question_5.py
 # @Function : 从排序数组中删除重复项
 
 """
