@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time     : 2018/7/20 17:33
 # @Author   : cancan
-# @File     : method_1.py
+# @File     : question_1.py
 # @Function : 二叉树的前序遍历
 
 """
