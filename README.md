@@ -151,6 +151,9 @@
 * [二叉树的后序遍历](Learn/Binary%20Tree/Binary%20Tree%20Traversal/question_3.py)
 * [二叉树的层次遍历](Learn/Binary%20Tree/Binary%20Tree%20Traversal/question_4.py)
 
+##### 运用递归解决问题
+* [二叉树的最大深度](Learn/Binary%20Tree/Recursion/question_1.py)
+
 ## 题库
 > 编号对应 LeetCode 题号
 
