@@ -108,7 +108,8 @@
 ### 学习
 #### 数组和字符串
 ##### 数组简介
-* [加一](./Learn/Array%20and%20String/Introduction%20to%20Array/question_4.py)
+* [寻找数组的中心索引](./Learn/Array%20and%20String/Introduction%20to%20Array/question_1.py)
+* [加一](./Learn/Array%20and%20String/Introduction%20to%20Array/question_3.py)
 
 ##### 二维数组简介
 * [杨辉三角](./Learn/Array%20and%20String/Introduction%20to%202D%20Array/question_4.py)
