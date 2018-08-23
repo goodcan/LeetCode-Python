@@ -289,6 +289,7 @@
 706 [设计哈希映射](./QuestionBank/706.Design%20HashMap/)<br>
 707 [设计链表](./QuestionBank/707.Design%20Linked%20List/)<br>
 709 [转换成小写字母](./QuestionBank/709.To%20Lower%20Case/)<br>
+724 [寻找数组的中心索引](./QuestionBank/724.Find%20Pivot%20Index/)<br>
 728 [自除数](./QuestionBank/728.Self%20Dividing%20Numbers/)<br>
 744 [寻找比目标字母大的最小字母](./QuestionBank/744.Find%20Smallest%20Letter%20Greater%20Than%20Target/)<br>
 762 [二进制表示中质数个计算置位](./QuestionBank/762.Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/)<br>
