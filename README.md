@@ -168,6 +168,9 @@
 * [N叉树的后序遍历](./Learn/N-ary%20Tree/Traversal/question_2.py)
 * [N叉树的层序遍历](./Learn/N-ary%20Tree/Traversal/question_3.py)
 
+##### 递归
+* [N叉树的最大深度](./Learn/N-ary%20Tree/Recursion/question.py)
+
 ## 题库
 > 编号对应 LeetCode 题号
 
