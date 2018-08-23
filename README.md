@@ -109,6 +109,7 @@
 #### 数组和字符串
 ##### 数组简介
 * [寻找数组的中心索引](./Learn/Array%20and%20String/Introduction%20to%20Array/question_1.py)
+* [至少是其他数字两倍的最大数](./Learn/Array%20and%20String/Introduction%20to%20Array/question_2.py)
 * [加一](./Learn/Array%20and%20String/Introduction%20to%20Array/question_3.py)
 
 ##### 二维数组简介
