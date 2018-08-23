@@ -162,6 +162,10 @@
 * [二叉树的最大深度](Learn/Binary%20Tree/Recursion/question_1.py)
 * [对称二叉树](Learn/Binary%20Tree/Recursion/question_2.py)
 
+#### N叉树
+##### 遍历
+* [N叉树的前序遍历](./Learn/N-ary%20Tree/Traversal/question_1.py)
+
 ## 题库
 > 编号对应 LeetCode 题号
 
