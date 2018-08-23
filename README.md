@@ -165,6 +165,7 @@
 #### N叉树
 ##### 遍历
 * [N叉树的前序遍历](./Learn/N-ary%20Tree/Traversal/question_1.py)
+* [N叉树的后序遍历](./Learn/N-ary%20Tree/Traversal/question_2.py)
 
 ## 题库
 > 编号对应 LeetCode 题号
