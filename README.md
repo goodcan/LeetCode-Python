@@ -171,6 +171,10 @@
 ##### 递归
 * [N叉树的最大深度](./Learn/N-ary%20Tree/Recursion/question.py)
 
+#### 队列 & 栈
+##### 栈：后入先出的数据结构
+* [最小栈](./Learn/Queue%20&%20Stack/Stack/question_1.py)
+
 ## 题库
 > 编号对应 LeetCode 题号
 
