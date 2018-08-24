@@ -174,6 +174,7 @@
 #### 队列 & 栈
 ##### 栈：后入先出的数据结构
 * [最小栈](./Learn/Queue%20&%20Stack/Stack/question_1.py)
+* [有效的括号](./Learn/Queue%20&%20Stack/Stack/question_2.py)
 
 ## 题库
 > 编号对应 LeetCode 题号
