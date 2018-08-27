@@ -182,6 +182,9 @@
 ##### 栈和深度优先搜索
 * [二叉树的中序遍历](./Learn/Queue%20&%20Stack/Stack%20and%20DFS/question_4.py)
 
+##### 小结
+* [用队列实现栈](./Learn/Queue%20&%20Stack/Conclusion/question_1.py)
+
 ## 题库
 > 编号对应 LeetCode 题号
 
