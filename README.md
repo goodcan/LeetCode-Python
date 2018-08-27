@@ -172,6 +172,9 @@
 * [N叉树的最大深度](./Learn/N-ary%20Tree/Recursion/question.py)
 
 #### 队列 & 栈
+##### 队列：先入先出的数据结构
+* [设计循环队列](./Learn/Queue%20&%20Stack/Queue/question_1.py)
+
 ##### 栈：后入先出的数据结构
 * [最小栈](./Learn/Queue%20&%20Stack/Stack/question_1.py)
 * [有效的括号](./Learn/Queue%20&%20Stack/Stack/question_2.py)
