@@ -179,6 +179,9 @@
 * [最小栈](./Learn/Queue%20&%20Stack/Stack/question_1.py)
 * [有效的括号](./Learn/Queue%20&%20Stack/Stack/question_2.py)
 
+##### 栈和深度优先搜索
+* [二叉树的中序遍历](./Learn/Queue%20&%20Stack/Stack%20and%20DFS/question_4.py)
+
 ## 题库
 > 编号对应 LeetCode 题号
 
