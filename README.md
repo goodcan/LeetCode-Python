@@ -255,6 +255,7 @@
 190 [颠倒二进制位](./QuestionBank/190.Reverse%20Bits/)<br>
 191 [位1的个数](./QuestionBank/191.Number%20of%201%20Bits/)<br>
 198 [打家劫舍](./QuestionBank/198.House%20Robber/)<br>
+202 [快乐数](./QuestionBank/202.Happy%20Number/)<br>
 203 [删除链表中的节点](./QuestionBank/203.Remove%20Linked%20List%20Elements/)<br>
 204 [计数质数](./QuestionBank/204.Count%20Primes/)<br>
 206 [反转链表](./QuestionBank/206.Reverse%20Linked%20List/)<br>
