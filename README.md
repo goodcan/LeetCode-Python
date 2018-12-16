@@ -311,6 +311,7 @@
 557 [反转字符串中的单词 III](./QuestionBank/557.Reverse%20Words%20in%20a%20String%20III/)<br>
 559 [N叉树的最大深度](./QuestionBank/559.Maximum%20Depth%20of%20N-ary%20Tree/)<br>
 561 [数组拆分 I](./QuestionBank/561.Array%20Partition%20I/)<br>
+567 [字符串的排列](./QuestionBank/567.Permutation%20in%20String/)<br>
 589 [N叉树的前序遍历](./QuestionBank/589.N-ary%20Tree%20Preorder%20Traversal/)<br>
 590 [N叉树的后序遍历](./QuestionBank/590.N-ary%20Tree%20Postorder%20Traversal/)<br>
 622 [设计循环队列](./QuestionBank/622.Design%20Circular%20Queue/)<br>
