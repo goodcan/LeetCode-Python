@@ -221,6 +221,7 @@
 67 [二进制求和](./QuestionBank/67.Add%20Binary/)<br>
 69 [x 的平方根](./QuestionBank/69.Sqrt(x)/)<br>
 70 [爬楼梯](./QuestionBank/70.Climbing%20Stairs/)<br>
+71 [简化路径](./QuestionBank/71.Simplify%20Path/)<br>
 75 [颜色分类](./QuestionBank/75.Sort%20Colors/)<br>
 82 [删除排序链表中的重复元素 II](./QuestionBank/82.Remove%20Duplicates%20from%20Sorted%20List%20II/)<br>
 83 [删除排序链表中的重复元素](./QuestionBank/83.Remove%20Duplicates%20from%20Sorted%20List/)<br>
