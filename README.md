@@ -217,6 +217,7 @@
 49 [字母异位词分组](./QuestionBank/49.Group%20Anagrams/)<br>
 50 [Pow(x, n)](./QuestionBank/50.Pow(x,%20n)/)<br>
 53 [最大子序和](./QuestionBank/53.Maximum%20Subarray/)<br>
+56 [合并区间](./QuestionBank/56.Merge%20Intervals/)<br>
 58 [最后一个单词的长度](./QuestionBank/58.Length%20of%20Last%20Word/)<br>
 66 [加一](./QuestionBank/66.Plus%20One/)<br>
 67 [二进制求和](./QuestionBank/67.Add%20Binary/)<br>
