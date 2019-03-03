@@ -247,6 +247,7 @@
 131 [分割回文串](./QuestionBank/131.Palindrome%20Partitioning/)<br>
 136 [只出现一次的数字](./QuestionBank/136.Single%20Number/)<br>
 137 [只出现一次的数字 II](./QuestionBank/137.Single%20Number%20II/)<br>
+139 [单词分割](./QuestionBank/139.Word%20Break/)<br>
 141 [环形链表](./QuestionBank/141.Linked%20List%20Cycle/)<br>
 144 [二叉树的前序遍历](./QuestionBank/144.Binary%20Tree%20Preorder%20Traversal/)<br>
 145 [二叉树的后序遍历](./QuestionBank/145.Binary%20Tree%20Postorder%20Traversal/)<br>
