@@ -27,7 +27,7 @@ Note:
 class Solution:
     def trailingZeroes(self, n: int) -> int:
         total = 0
-        while n >= 1:
+        while n > 4:
             n //= 5
             total += n
         return total
