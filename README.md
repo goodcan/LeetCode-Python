@@ -312,7 +312,7 @@
 445 [两数相加 II](./QuestionBank/445.Add%20Two%20Numbers%20II/)<br>
 451 [根据字符出现频率排序](./QuestionBank/451.Sort%20Characters%20By%20Frequency/)<br>
 461 [汉明距离](./QuestionBank/461.Hamming%20Distance/)<br>
-476 [数字的补数](.p/QuestionBank/476.Number%20Complement/)<br>
+476 [数字的补数](./QuestionBank/476.Number%20Complement/)<br>
 485 [最大连续1的个数](./QuestionBank/485.Max%20Consecutive%20Ones/)<br>
 515 [在每个树行中找最大值](./QuestionBank/515.Find%20Largest%20Value%20in%20Each%20Tree%20Row/)<br>
 520 [检测大写字母](./QuestionBank/520.Detect%20Capital/)<br>
