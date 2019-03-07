@@ -77,10 +77,3 @@ class Solution:
                 temp.append(st)
                 self.dfs(s, l, wordDict, res, index, temp, dp)
                 temp.pop()
-
-
-s = Solution()
-print(s.wordBreak("a", ["a"]))
-print(s.wordBreak("catsanddog", ["cat", "cats", "and", "sand", "dog"]))
-print(s.wordBreak("pineapplepenapple",
-                  ["apple", "pen", "applepen", "pine", "pineapple"]))
