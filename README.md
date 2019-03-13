@@ -255,6 +255,7 @@
 148 [排序链表](./QuestionBank/148.Sort%20List/)<br>
 151 [翻转字符串里的单词](./QuestionBank/151.Reverse%20Words%20in%20a%20String/)<br>
 155 [最小栈](./QuestionBank/155.Min%20Stack/)<br>
+152 [乘积最大子序列](./QuestionBank/152.Maximum%20Product%20Subarray/)<br>
 164 [最大间距](./QuestionBank/164.Maximum%20Gap/)<br>
 162 [寻找峰值](./QuestionBank/162.Find%20Peak%20Element/)<br>
 167 [两数之和 II - 输入有序数组](./QuestionBank/167.Two%20Sum%20II%20-%20Input%20array%20is%20sorted/)<br>
