@@ -291,6 +291,7 @@
 284 [顶端迭代器](./QuestionBank/284.Peeking%20Iterator/)<br>
 287 [寻找重复数](./QuestionBank/287.Find%20the%20Duplicate%20Number/)<br>
 290 [单词模式](./QuestionBank/290.Word%20Pattern/)<br>
+295 [数据流的中位数](./QuestionBank/295.Find%20Median%20from%20Data%20Stream/)<br>
 303 [区域和检索 - 数组不可变](./QuestionBank/303.Range%20Sum%20Query%20-%20Immutable/)<br>
 326 [3的幂](./QuestionBank/326.Power%20of%20Three/)<br>
 338 [Bit位计数](./QuestionBank/338.Counting%20Bits/)<br>
