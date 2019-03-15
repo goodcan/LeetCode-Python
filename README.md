@@ -5,186 +5,186 @@
 ### 面试
 #### 初级算法
 ##### 数组
-* [从排序数组中删除重复项](./Interview/Easy%20Collection/Array/question_1.py)
-* [买卖股票的最佳时机 II](./Interview/Easy%20Collection/Array/question_2.py)
-* [旋转数组](./Interview/Easy%20Collection/Array/question_3.py)
-* [存在重复](./Interview/Easy%20Collection/Array/question_4.py)
-* [只出现一次的数字](./Interview/Easy%20Collection/Array/question_5.py)
-* [两个数组的交集 II](./Interview/Easy%20Collection/Array/question_6.py)
-* [加一](./Interview/Easy%20Collection/Array/question_7.py)
-* [移动零](./Interview/Easy%20Collection/Array/question_8.py)
-* [两数之和](./Interview/Easy%20Collection/Array/question_9.py)
-* [有效的数独](./Interview/Easy%20Collection/Array/question_10.py)
-* [旋转图像](./Interview/Easy%20Collection/Array/question_11.py)
+- [从排序数组中删除重复项](./Interview/Easy%20Collection/Array/question_1.py)
+- [买卖股票的最佳时机 II](./Interview/Easy%20Collection/Array/question_2.py)
+- [旋转数组](./Interview/Easy%20Collection/Array/question_3.py)
+- [存在重复](./Interview/Easy%20Collection/Array/question_4.py)
+- [只出现一次的数字](./Interview/Easy%20Collection/Array/question_5.py)
+- [两个数组的交集 II](./Interview/Easy%20Collection/Array/question_6.py)
+- [加一](./Interview/Easy%20Collection/Array/question_7.py)
+- [移动零](./Interview/Easy%20Collection/Array/question_8.py)
+- [两数之和](./Interview/Easy%20Collection/Array/question_9.py)
+- [有效的数独](./Interview/Easy%20Collection/Array/question_10.py)
+- [旋转图像](./Interview/Easy%20Collection/Array/question_11.py)
 
 ##### 字符串
-* [反转字符串](./Interview/Easy%20Collection/Strings/question_1.py)
-* [颠倒整数](./Interview/Easy%20Collection/Strings/question_2.py)
-* [字符串中的第一个唯一字符](./Interview/Easy%20Collection/Strings/question_3.py)
-* [有效的字母异位词](./Interview/Easy%20Collection/Strings/question_4.py)
-* [验证回文字符串](./Interview/Easy%20Collection/Strings/question_5.py)
-* [字符串转整数（atoi）](./Interview/Easy%20Collection/Strings/question_6.py)
-* [实现strStr()](./Interview/Easy%20Collection/Strings/question_7.py)
-* [数数并说](./Interview/Easy%20Collection/Strings/question_8.py)
-* [最长公共前缀](./Interview/Easy%20Collection/Strings/question_9.py)
+- [反转字符串](./Interview/Easy%20Collection/Strings/question_1.py)
+- [颠倒整数](./Interview/Easy%20Collection/Strings/question_2.py)
+- [字符串中的第一个唯一字符](./Interview/Easy%20Collection/Strings/question_3.py)
+- [有效的字母异位词](./Interview/Easy%20Collection/Strings/question_4.py)
+- [验证回文字符串](./Interview/Easy%20Collection/Strings/question_5.py)
+- [字符串转整数（atoi）](./Interview/Easy%20Collection/Strings/question_6.py)
+- [实现strStr()](./Interview/Easy%20Collection/Strings/question_7.py)
+- [数数并说](./Interview/Easy%20Collection/Strings/question_8.py)
+- [最长公共前缀](./Interview/Easy%20Collection/Strings/question_9.py)
 
 ##### 链表
-* [删除链表中的节点](./Interview/Easy%20Collection/Linked%20List/question_1.py)
-* [删除链表的倒数第N个节点](./Interview/Easy%20Collection/Linked%20List/question_2.py)
-* [反转链表](./Interview/Easy%20Collection/Linked%20List/question_3.py)
-* [合并两个有序链表](./Interview/Easy%20Collection/Linked%20List/question_4.py)
-* [回文链表](./Interview/Easy%20Collection/Linked%20List/question_5.py)
-* [环形链表](./Interview/Easy%20Collection/Linked%20List/question_6.py)
+- [删除链表中的节点](./Interview/Easy%20Collection/Linked%20List/question_1.py)
+- [删除链表的倒数第N个节点](./Interview/Easy%20Collection/Linked%20List/question_2.py)
+- [反转链表](./Interview/Easy%20Collection/Linked%20List/question_3.py)
+- [合并两个有序链表](./Interview/Easy%20Collection/Linked%20List/question_4.py)
+- [回文链表](./Interview/Easy%20Collection/Linked%20List/question_5.py)
+- [环形链表](./Interview/Easy%20Collection/Linked%20List/question_6.py)
 
 ##### 树
-* [二叉树的最大深度](./Interview/Easy%20Collection/Trees/question_1.py)
-* [验证二叉搜索树](./Interview/Easy%20Collection/Trees/question_2.py)
-* [对称二叉树](./Interview/Easy%20Collection/Trees/question_3.py)
-* [二叉树的层次遍历](./Interview/Easy%20Collection/Trees/question_4.py)
-* [将有序数组转换为二叉搜索树](./Interview/Easy%20Collection/Trees/question_5.py)
+- [二叉树的最大深度](./Interview/Easy%20Collection/Trees/question_1.py)
+- [验证二叉搜索树](./Interview/Easy%20Collection/Trees/question_2.py)
+- [对称二叉树](./Interview/Easy%20Collection/Trees/question_3.py)
+- [二叉树的层次遍历](./Interview/Easy%20Collection/Trees/question_4.py)
+- [将有序数组转换为二叉搜索树](./Interview/Easy%20Collection/Trees/question_5.py)
 
 ##### 排序和搜索
-* [合并两个有序数组](./Interview/Easy%20Collection/Sorting%20and%20Searching/question_1.py)
-* [第一个错误的版本](./Interview/Easy%20Collection/Sorting%20and%20Searching/question_2.py)
+- [合并两个有序数组](./Interview/Easy%20Collection/Sorting%20and%20Searching/question_1.py)
+- [第一个错误的版本](./Interview/Easy%20Collection/Sorting%20and%20Searching/question_2.py)
 
 ##### 动态规划
-* [爬楼梯](./Interview/Easy%20Collection/Dynamic%20Programming/question_1.py)
-* [买卖股票的最佳时机](./Interview/Easy%20Collection/Dynamic%20Programming/question_2.py)
-* [最大子序和](./Interview/Easy%20Collection/Dynamic%20Programming/question_3.py)
-* [打家劫舍](./Interview/Easy%20Collection/Dynamic%20Programming/question_4.py)
+- [爬楼梯](./Interview/Easy%20Collection/Dynamic%20Programming/question_1.py)
+- [买卖股票的最佳时机](./Interview/Easy%20Collection/Dynamic%20Programming/question_2.py)
+- [最大子序和](./Interview/Easy%20Collection/Dynamic%20Programming/question_3.py)
+- [打家劫舍](./Interview/Easy%20Collection/Dynamic%20Programming/question_4.py)
 
 ##### 设计问题
-* [打亂數組](./Interview/Easy%20Collection/Design/question_1.py)
-* [最小栈](./Interview/Easy%20Collection/Design/question_2.py)
+- [打亂數組](./Interview/Easy%20Collection/Design/question_1.py)
+- [最小栈](./Interview/Easy%20Collection/Design/question_2.py)
 
 ##### 数学
-* [Fizz Buzz](./Interview/Easy%20Collection/Math/question_1.py)
-* [计数质数](./Interview/Easy%20Collection/Math/question_2.py)
-* [3的幂](./Interview/Easy%20Collection/Math/question_3.py)
-* [罗马数字转整数](./Interview/Easy%20Collection/Math/question_4.py)
+- [Fizz Buzz](./Interview/Easy%20Collection/Math/question_1.py)
+- [计数质数](./Interview/Easy%20Collection/Math/question_2.py)
+- [3的幂](./Interview/Easy%20Collection/Math/question_3.py)
+- [罗马数字转整数](./Interview/Easy%20Collection/Math/question_4.py)
 
 ##### 其他
-* [位1的个数](./Interview/Easy%20Collection/Others/question_1.py)
-* [汉明距离](./Interview/Easy%20Collection/Others/question_2.py)
-* [颠倒二进制位](./Interview/Easy%20Collection/Others/question_3.py)
-* [杨辉三角](./Interview/Easy%20Collection/Others/question_4.py)
-* [有效的括号](./Interview/Easy%20Collection/Others/question_5.py)
-* [缺失数字](./Interview/Easy%20Collection/Others/question_6.py)
+- [位1的个数](./Interview/Easy%20Collection/Others/question_1.py)
+- [汉明距离](./Interview/Easy%20Collection/Others/question_2.py)
+- [颠倒二进制位](./Interview/Easy%20Collection/Others/question_3.py)
+- [杨辉三角](./Interview/Easy%20Collection/Others/question_4.py)
+- [有效的括号](./Interview/Easy%20Collection/Others/question_5.py)
+- [缺失数字](./Interview/Easy%20Collection/Others/question_6.py)
 
 #### 中级算法
 ##### 数组和字符串
-* [字谜分组](./Interview/Medium%20Collection/Array%20and%20Strings/question_3.py)
+- [字谜分组](./Interview/Medium%20Collection/Array%20and%20Strings/question_3.py)
 
 ##### 链表
-* [两数相加](./Interview/Medium%20Collection/Linked%20List/question_1.py)
+- [两数相加](./Interview/Medium%20Collection/Linked%20List/question_1.py)
 
 ##### 树和图
-* [中序遍历二叉树](./Interview/Medium%20Collection/Trees%20and%20Graphs/question_1.py)
+- [中序遍历二叉树](./Interview/Medium%20Collection/Trees%20and%20Graphs/question_1.py)
 
 ##### 排序和搜索
-* [颜色分类](./Interview/Medium%20Collection/Sorting%20and%20Searching/question_1.py)
-* [前K个高频元素](./Interview/Medium%20Collection/Sorting%20and%20Searching/question_2.py)
-* [数组中的第K个最大元素](./Interview/Medium%20Collection/Sorting%20and%20Searching/question_3.py)
-* [寻找峰值](./Interview/Medium%20Collection/Sorting%20and%20Searching/question_4.py)
-* [在排序数组中查找元素的第一个和最后一个位置](./Interview/Medium%20Collection/Sorting%20and%20Searching/question_5.py)
-* [搜索旋转排序数组](./Interview/Medium%20Collection/Sorting%20and%20Searching/question_7.py)
-* [搜索二维矩阵 II](./Interview/Medium%20Collection/Sorting%20and%20Searching/question_8.py)
+- [颜色分类](./Interview/Medium%20Collection/Sorting%20and%20Searching/question_1.py)
+- [前K个高频元素](./Interview/Medium%20Collection/Sorting%20and%20Searching/question_2.py)
+- [数组中的第K个最大元素](./Interview/Medium%20Collection/Sorting%20and%20Searching/question_3.py)
+- [寻找峰值](./Interview/Medium%20Collection/Sorting%20and%20Searching/question_4.py)
+- [在排序数组中查找元素的第一个和最后一个位置](./Interview/Medium%20Collection/Sorting%20and%20Searching/question_5.py)
+- [搜索旋转排序数组](./Interview/Medium%20Collection/Sorting%20and%20Searching/question_7.py)
+- [搜索二维矩阵 II](./Interview/Medium%20Collection/Sorting%20and%20Searching/question_8.py)
 
 ##### 数学
-* [Pow(x, n)](./Interview/Medium%20Collection/Math/question_4.py)
-* [x 的平方根](./Interview/Medium%20Collection/Math/question_5.py)
+- [Pow(x, n)](./Interview/Medium%20Collection/Math/question_4.py)
+- [x 的平方根](./Interview/Medium%20Collection/Math/question_5.py)
 
 ##### 其他
-* [两整数之和](./Interview/Medium%20Collection/Others/question_1.py)
-* [求众数](./Interview/Medium%20Collection/Others/question_3.py)
+- [两整数之和](./Interview/Medium%20Collection/Others/question_1.py)
+- [求众数](./Interview/Medium%20Collection/Others/question_3.py)
 
 #### 高级算法
 ##### 数组和字符串
-* [寻找重复数](./Interview/Hard%20Collection/Array%20and%20Strings/question_8.py)
+- [寻找重复数](./Interview/Hard%20Collection/Array%20and%20Strings/question_8.py)
 
 ##### 链表
-* [链表排序](./Interview/Hard%20Collection/Linked%20List/question_2.py)
+- [链表排序](./Interview/Hard%20Collection/Linked%20List/question_2.py)
 
 ### 学习
 #### 数组和字符串
 ##### 数组简介
-* [寻找数组的中心索引](./Learn/Array%20and%20String/Introduction%20to%20Array/question_1.py)
-* [至少是其他数字两倍的最大数](./Learn/Array%20and%20String/Introduction%20to%20Array/question_2.py)
-* [加一](./Learn/Array%20and%20String/Introduction%20to%20Array/question_3.py)
+- [寻找数组的中心索引](./Learn/Array%20and%20String/Introduction%20to%20Array/question_1.py)
+- [至少是其他数字两倍的最大数](./Learn/Array%20and%20String/Introduction%20to%20Array/question_2.py)
+- [加一](./Learn/Array%20and%20String/Introduction%20to%20Array/question_3.py)
 
 ##### 二维数组简介
-* [杨辉三角](./Learn/Array%20and%20String/Introduction%20to%202D%20Array/question_4.py)
+- [杨辉三角](./Learn/Array%20and%20String/Introduction%20to%202D%20Array/question_4.py)
 
 ##### 字符串简介
-* [二进制求和](./Learn/Array%20and%20String/Introduction%20to%20String/question_1.py)
-* [实现strStr()](./Learn/Array%20and%20String/Introduction%20to%20String/question_2.py)
-* [最长公共前缀](./Learn/Array%20and%20String/Introduction%20to%20String/question_3.py)
+- [二进制求和](./Learn/Array%20and%20String/Introduction%20to%20String/question_1.py)
+- [实现strStr()](./Learn/Array%20and%20String/Introduction%20to%20String/question_2.py)
+- [最长公共前缀](./Learn/Array%20and%20String/Introduction%20to%20String/question_3.py)
 
 ##### 双指针技巧
-* [反转字符串](./Learn/Array%20and%20String/Two-Pointer%20Technique/question_1.py)
-* [数组拆分 I](./Learn/Array%20and%20String/Two-Pointer%20Technique/question_2.py)
-* [两数之和 II - 输入有序数组](./Learn/Array%20and%20String/Two-Pointer%20Technique/question_3.py)
-* [移除元素](./Learn/Array%20and%20String/Two-Pointer%20Technique/question_4.py)
-* [最大连续1的个数](./Learn/Array%20and%20String/Two-Pointer%20Technique/question_5.py)
+- [反转字符串](./Learn/Array%20and%20String/Two-Pointer%20Technique/question_1.py)
+- [数组拆分 I](./Learn/Array%20and%20String/Two-Pointer%20Technique/question_2.py)
+- [两数之和 II - 输入有序数组](./Learn/Array%20and%20String/Two-Pointer%20Technique/question_3.py)
+- [移除元素](./Learn/Array%20and%20String/Two-Pointer%20Technique/question_4.py)
+- [最大连续1的个数](./Learn/Array%20and%20String/Two-Pointer%20Technique/question_5.py)
 
 ##### 小结
-* [旋转数据](./Learn/Array%20and%20String/Conclusion/question_1.py)
-* [杨辉三角 II](./Learn/Array%20and%20String/Conclusion/question_2.py)
-* [翻转字符串里的单词](./Learn/Array%20and%20String/Conclusion/question_3.py)
-* [反转字符串中的单词 III](./Learn/Array%20and%20String/Conclusion/question_4.py)
-* [从排序数组中删除重复项](./Learn/Array%20and%20String/Conclusion/question_5.py)
-* [移动零](./Learn/Array%20and%20String/Conclusion/question_6.py)
+- [旋转数据](./Learn/Array%20and%20String/Conclusion/question_1.py)
+- [杨辉三角 II](./Learn/Array%20and%20String/Conclusion/question_2.py)
+- [翻转字符串里的单词](./Learn/Array%20and%20String/Conclusion/question_3.py)
+- [反转字符串中的单词 III](./Learn/Array%20and%20String/Conclusion/question_4.py)
+- [从排序数组中删除重复项](./Learn/Array%20and%20String/Conclusion/question_5.py)
+- [移动零](./Learn/Array%20and%20String/Conclusion/question_6.py)
 
 #### 链表
 ##### 单链表
-* [设计链表](./Learn/Linked%20List/Singly%20Linked%20List/question.py)
+- [设计链表](./Learn/Linked%20List/Singly%20Linked%20List/question.py)
 
 ##### 双指针技巧
-* [环形链表](./Learn/Linked%20List/Two%20Pointer%20Technique/question_1.py)
-* [删除链表的倒数第N个节点](./Learn/Linked%20List/Two%20Pointer%20Technique/question_4.py)
+- [环形链表](./Learn/Linked%20List/Two%20Pointer%20Technique/question_1.py)
+- [删除链表的倒数第N个节点](./Learn/Linked%20List/Two%20Pointer%20Technique/question_4.py)
 
 ##### 经典问题
-* [反转链表](./Learn/Linked%20List/Classic%20Problems/question_1.py)
-* [回文链表](./Learn/Linked%20List/Classic%20Problems/question_5.py)
+- [反转链表](./Learn/Linked%20List/Classic%20Problems/question_1.py)
+- [回文链表](./Learn/Linked%20List/Classic%20Problems/question_5.py)
 
 ##### 小结
-* [合并两个有序链表](./Learn/Linked%20List/Conclusion/question_1.py)
-* [两数相加](./Learn/Linked%20List/Conclusion/question_2.py)
+- [合并两个有序链表](./Learn/Linked%20List/Conclusion/question_1.py)
+- [两数相加](./Learn/Linked%20List/Conclusion/question_2.py)
 
 #### 二叉树
 ##### 树的遍历
-* [二叉树的前序遍历](Learn/Binary%20Tree/Binary%20Tree%20Traversal/question_1.py)
-* [中序遍历二叉树](Learn/Binary%20Tree/Binary%20Tree%20Traversal/question_2.py)
-* [二叉树的后序遍历](Learn/Binary%20Tree/Binary%20Tree%20Traversal/question_3.py)
-* [二叉树的层次遍历](Learn/Binary%20Tree/Binary%20Tree%20Traversal/question_4.py)
+- [二叉树的前序遍历](Learn/Binary%20Tree/Binary%20Tree%20Traversal/question_1.py)
+- [中序遍历二叉树](Learn/Binary%20Tree/Binary%20Tree%20Traversal/question_2.py)
+- [二叉树的后序遍历](Learn/Binary%20Tree/Binary%20Tree%20Traversal/question_3.py)
+- [二叉树的层次遍历](Learn/Binary%20Tree/Binary%20Tree%20Traversal/question_4.py)
 
 ##### 运用递归解决问题
-* [二叉树的最大深度](Learn/Binary%20Tree/Recursion/question_1.py)
-* [对称二叉树](Learn/Binary%20Tree/Recursion/question_2.py)
+- [二叉树的最大深度](Learn/Binary%20Tree/Recursion/question_1.py)
+- [对称二叉树](Learn/Binary%20Tree/Recursion/question_2.py)
 
 #### N叉树
 ##### 遍历
-* [N叉树的前序遍历](./Learn/N-ary%20Tree/Traversal/question_1.py)
-* [N叉树的后序遍历](./Learn/N-ary%20Tree/Traversal/question_2.py)
-* [N叉树的层序遍历](./Learn/N-ary%20Tree/Traversal/question_3.py)
+- [N叉树的前序遍历](./Learn/N-ary%20Tree/Traversal/question_1.py)
+- [N叉树的后序遍历](./Learn/N-ary%20Tree/Traversal/question_2.py)
+- [N叉树的层序遍历](./Learn/N-ary%20Tree/Traversal/question_3.py)
 
 ##### 递归
-* [N叉树的最大深度](./Learn/N-ary%20Tree/Recursion/question.py)
+- [N叉树的最大深度](./Learn/N-ary%20Tree/Recursion/question.py)
 
 #### 队列 & 栈
 ##### 队列：先入先出的数据结构
-* [设计循环队列](./Learn/Queue%20&%20Stack/Queue/question_1.py)
+- [设计循环队列](./Learn/Queue%20&%20Stack/Queue/question_1.py)
 
 ##### 栈：后入先出的数据结构
-* [最小栈](./Learn/Queue%20&%20Stack/Stack/question_1.py)
-* [有效的括号](./Learn/Queue%20&%20Stack/Stack/question_2.py)
+- [最小栈](./Learn/Queue%20&%20Stack/Stack/question_1.py)
+- [有效的括号](./Learn/Queue%20&%20Stack/Stack/question_2.py)
 
 ##### 栈和深度优先搜索
-* [二叉树的中序遍历](./Learn/Queue%20&%20Stack/Stack%20and%20DFS/question_4.py)
+- [二叉树的中序遍历](./Learn/Queue%20&%20Stack/Stack%20and%20DFS/question_4.py)
 
 ##### 小结
-* [用栈实现队列](./Learn/Queue%20&%20Stack/Conclusion/question_1.py)
-* [用队列实现栈](./Learn/Queue%20&%20Stack/Conclusion/question_2.py)
+- [用栈实现队列](./Learn/Queue%20&%20Stack/Conclusion/question_1.py)
+- [用队列实现栈](./Learn/Queue%20&%20Stack/Conclusion/question_2.py)
 
 ## 题库
 > 编号对应 LeetCode 题号
