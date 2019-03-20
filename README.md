@@ -362,6 +362,7 @@
 852 [山脉数组的峰顶索引](./QuestionBank/852.Peak%20Index%20in%20a%20Mountain%20Array/)<br>
 867 [转置矩阵](./QuestionBank/867.Transpose%20Matrix/)<br>
 876 [链表的中间结点](./QuestionBank/876.Middle%20of%20the%20Linked%20List/)<br>
+896 [单调数列](./QuestionBank/896.Monotonic%20Array/)<br>
 
 ## 声明
 代码仅供参考，如有不恰当、不正确的地方，欢迎批评指正，谢谢……
