@@ -310,6 +310,7 @@
 349 [两个数组的交集](./QuestionBank/349.Intersection%20of%20Two%20Arrays/)<br>
 350 [两个数组的交集 II](./QuestionBank/350.Intersection%20of%20Two%20Arrays%20II/)<br>
 371 [两整数之和](./QuestionBank/371.Sum%20of%20Two%20Integers/)<br>
+374 [猜数字大小](./QuestionBank/374.Guess%20Number%20Higher%20or%20Lower/)<br>
 382 [链表随机节点](./QuestionBank/382.Linked%20List%20Random%20Node/)<br>
 384 [打乱数组](./QuestionBank/384.Shuffle%20an%20Array/)<br>
 387 [字符串中的第一个唯一字符](./QuestionBank/387.First%20Unique%20Character%20in%20a%20String/)<br>
