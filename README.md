@@ -316,6 +316,7 @@
 389 [找不同](./QuestionBank/389.Find%20the%20Difference/)<br>
 397 [整数替换](./QuestionBank/397.Integer%20Replacement/)<br>
 404 [左叶子之和](./QuestionBank/404.Sum%20of%20Left%20Leaves/)<br>
+405 [数字转换为十六进制数](./QuestionBank/405.Convert%20a%20Number%20to%20Hexadecimal/)<br>
 412 [Fizz Buzz](./QuestionBank/412.Fizz%20Buzz/)<br>
 414 [第三大的数](./QuestionBank/414.Third%20Maximum%20Number/)<br>
 415 [字符串相加](./QuestionBank/415.Add%20Strings/)<br>
