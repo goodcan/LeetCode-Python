@@ -365,6 +365,7 @@
 868 [二进制间距](./QuestionBank/868.Binary%20Gap/)<br>
 876 [链表的中间结点](./QuestionBank/876.Middle%20of%20the%20Linked%20List/)<br>
 896 [单调数列](./QuestionBank/896.Monotonic%20Array/)<br>
+905 [按奇偶排序数组](./QuestionBank/905.Sort%20Array%20By%20Parity/)<br>
 922 [按奇偶排序数组 II](./QuestionBank/922.Sort%20Array%20By%20Parity%20II/)<br>
 933 [最近的请求次数](./QuestionBank/933.Number%20of%20Recent%20Calls/)<br>
 938 [二叉搜索树的范围和](./QuestionBank/938.Range%20Sum%20of%20BST/)<br>
