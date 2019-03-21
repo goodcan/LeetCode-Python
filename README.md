@@ -364,6 +364,7 @@
 867 [转置矩阵](./QuestionBank/867.Transpose%20Matrix/)<br>
 876 [链表的中间结点](./QuestionBank/876.Middle%20of%20the%20Linked%20List/)<br>
 896 [单调数列](./QuestionBank/896.Monotonic%20Array/)<br>
+961 [重复 N 次的元素](./QuestionBank/961.N-Repeated%20Element%20in%20Size%202N%20Array/)<br>
 965 [单值二叉树](./QuestionBank/965.Univalued%20Binary%20Tree/)<br>
 970 [强整数](./QuestionBank/970.Powerful%20Integers/)<br>
 973 [最接近原点的 K 个点](./QuestionBank/973.K%20Closest%20Points%20to%20Origin/)<br>
