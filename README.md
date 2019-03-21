@@ -344,6 +344,7 @@
 622 [设计循环队列](./QuestionBank/622.Design%20Circular%20Queue/)<br>
 637 [二叉树的层平均值](./QuestionBank/637.Average%20of%20Levels%20in%20Binary%20Tree/)<br>
 648 [单词替换](./QuestionBank/648.Replace%20Words/)<br>
+682 [棒球比赛](./QuestionBank/682.Baseball%20Game/)<br>
 693 [交替位二进制数](./QuestionBank/693.Binary%20Number%20with%20Alternating%20Bits/)<br>
 700 [二叉搜索树中的搜索](./QuestionBank/700.Search%20in%20a%20Binary%20Search%20Tree/)<br>
 704 [二分查找](./QuestionBank/704.Binary%20Search/)<br>
