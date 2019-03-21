@@ -364,6 +364,7 @@
 867 [转置矩阵](./QuestionBank/867.Transpose%20Matrix/)<br>
 876 [链表的中间结点](./QuestionBank/876.Middle%20of%20the%20Linked%20List/)<br>
 896 [单调数列](./QuestionBank/896.Monotonic%20Array/)<br>
+970 [强整数](./QuestionBank/970.Powerful%20Integers/)<br>
 973 [最接近原点的 K 个点](./QuestionBank/973.K%20Closest%20Points%20to%20Origin/)<br>
 977 [有序数组的平方](./QuestionBank/977.Squares%20of%20a%20Sorted%20Array/)<br>
 1012 [十进制整数的反码](./QuestionBank/1012.Complement%20of%20Base%2010%20Integer/)<br>
