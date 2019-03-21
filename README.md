@@ -365,6 +365,7 @@
 876 [链表的中间结点](./QuestionBank/876.Middle%20of%20the%20Linked%20List/)<br>
 896 [单调数列](./QuestionBank/896.Monotonic%20Array/)<br>
 922 [按奇偶排序数组 II](./QuestionBank/922.Sort%20Array%20By%20Parity%20II/)<br>
+938 [二叉搜索树的范围和](./QuestionBank/938.Range%20Sum%20of%20BST/)<br>
 942 [增减字符串匹配](./QuestionBank/942.DI%20String%20Match/)<br>
 961 [重复 N 次的元素](./QuestionBank/961.N-Repeated%20Element%20in%20Size%202N%20Array/)<br>
 965 [单值二叉树](./QuestionBank/965.Univalued%20Binary%20Tree/)<br>
