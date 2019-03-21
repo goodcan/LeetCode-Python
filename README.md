@@ -367,6 +367,7 @@
 965 [单值二叉树](./QuestionBank/965.Univalued%20Binary%20Tree/)<br>
 970 [强整数](./QuestionBank/970.Powerful%20Integers/)<br>
 973 [最接近原点的 K 个点](./QuestionBank/973.K%20Closest%20Points%20to%20Origin/)<br>
+976 [三角形的最大周长](./QuestionBank/976.Largest%20Perimeter%20Triangle/)<br>
 977 [有序数组的平方](./QuestionBank/977.Squares%20of%20a%20Sorted%20Array/)<br>
 985 [查询后的偶数和](./QuestionBank/985.Sum%20of%20Even%20Numbers%20After%20Queries/)<br>
 989 [数组形式的整数加法](./QuestionBank/989.Add%20to%20Array-Form%20of%20Integer/)<br>
