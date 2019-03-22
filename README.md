@@ -360,6 +360,7 @@
 771 [宝石与石头](./QuestionBank/771.Jewels%20and%20Stones/)<br>
 804 [唯一摩尔斯密码词](./QuestionBank/804.Unique%20Morse%20Code%20Words/)<br>
 807 [保持城市天际线](./QuestionBank/807.Max%20Increase%20to%20Keep%20City%20Skyline/)<br>
+821 [字符的最短距离](./QuestionBank/821.Shortest%20Distance%20to%20a%20Character/)<br>
 832 [翻转图像](./QuestionBank/832.Flipping%20an%20Image/)<br>
 852 [山脉数组的峰顶索引](./QuestionBank/852.Peak%20Index%20in%20a%20Mountain%20Array/)<br>
 867 [转置矩阵](./QuestionBank/867.Transpose%20Matrix/)<br>
