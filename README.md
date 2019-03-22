@@ -357,6 +357,7 @@
 744 [寻找比目标字母大的最小字母](./QuestionBank/744.Find%20Smallest%20Letter%20Greater%20Than%20Target/)<br>
 747 [至少是其他数字两倍的最大数](./QuestionBank/747.Largest%20Number%20At%20Least%20Twice%20of%20Others/)<br>
 762 [二进制表示中质数个计算置位](./QuestionBank/762.Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/)<br>
+766 [托普利茨矩阵](./QuestionBank/766.Toeplitz%20Matrix/)<br>
 771 [宝石与石头](./QuestionBank/771.Jewels%20and%20Stones/)<br>
 804 [唯一摩尔斯密码词](./QuestionBank/804.Unique%20Morse%20Code%20Words/)<br>
 807 [保持城市天际线](./QuestionBank/807.Max%20Increase%20to%20Keep%20City%20Skyline/)<br>
