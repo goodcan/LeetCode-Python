@@ -37,20 +37,3 @@ class Solution:
 					min(triangle[row][col], triangle[row][col + 1])
 
 		return triangle[0][0]
-
-
-s = Solution()
-print(s.minimumTotal([
-	[2],
-	[3, 4],
-	[6, 5, 7],
-	[4, 1, 8, 3]
-]))
-
-print(s.minimumTotal([[-10]]))
-
-print(s.minimumTotal([
-	[-1],
-	[2, 3],
-	[1, -1, -1]
-]))
