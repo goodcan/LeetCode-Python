@@ -246,6 +246,7 @@
 116 [填充同一层的兄弟节点](./QuestionBank/116.Populating%20Next%20Right%20Pointers%20in%20Each%20Node/)<br>
 118 [杨辉三角](./QuestionBank/118.Pascal's%20Triangle/)<br>
 119 [杨辉三角 II](./QuestionBank/119..Pascal's%20Triangle%20II/)<br>
+120 [三角形最小路径和](./QuestionBank/120.Triangle/)<br>
 121 [买卖股票的最佳时机](./QuestionBank/121.Best%20Time%20to%20Buy%20and%20Sell%20Stock/)<br>
 122 [买卖股票的最佳时机](./QuestionBank/122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/)<br>
 125 [验证回文字符串](./QuestionBank/125.Valid%20Palindrome/)<br>
