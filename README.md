@@ -193,6 +193,7 @@
 2 [两数相加](./QuestionBank/2.Add%20Two%20Numbers/)<br>
 3 [无重复字符的最长子串](./QuestionBank/3.Longest%20Substring%20Without%20Repeating%20Characters/)<br>
 4 [两个排序数组的中位数](./QuestionBank/4.Median%20of%20Two%20Sorted%20Arrays/)<br>
+5 [最长回文子串](./QuestionBank/5.Longest%20Palindromic%20Substring/)<br>
 7 [颠倒整数](./QuestionBank/7.Reverse%20Integer/)<br>
 8 [字符串转整数（atoi）](./QuestionBank/8.String%20to%20Integer%20(atoi)/)<br>
 9 [回文数](./QuestionBank/9.Palindrome%20Number/)<br>
@@ -246,6 +247,7 @@
 116 [填充同一层的兄弟节点](./QuestionBank/116.Populating%20Next%20Right%20Pointers%20in%20Each%20Node/)<br>
 118 [杨辉三角](./QuestionBank/118.Pascal's%20Triangle/)<br>
 119 [杨辉三角 II](./QuestionBank/119..Pascal's%20Triangle%20II/)<br>
+120 [三角形最小路径和](./QuestionBank/120.Triangle/)<br>
 121 [买卖股票的最佳时机](./QuestionBank/121.Best%20Time%20to%20Buy%20and%20Sell%20Stock/)<br>
 122 [买卖股票的最佳时机](./QuestionBank/122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/)<br>
 125 [验证回文字符串](./QuestionBank/125.Valid%20Palindrome/)<br>
