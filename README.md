@@ -256,6 +256,7 @@
 136 [只出现一次的数字](./QuestionBank/136.Single%20Number/)<br>
 137 [只出现一次的数字 II](./QuestionBank/137.Single%20Number%20II/)<br>
 139 [单词分割](./QuestionBank/139.Word%20Break/)<br>
+146 [LRU缓存机制](./QuestionBank/146.LRU%20Cache/)<br>
 140 [单词分割 II](./QuestionBank/140.Word%20Break%20II/)<br>
 141 [环形链表](./QuestionBank/141.Linked%20List%20Cycle/)<br>
 144 [二叉树的前序遍历](./QuestionBank/144.Binary%20Tree%20Preorder%20Traversal/)<br>
