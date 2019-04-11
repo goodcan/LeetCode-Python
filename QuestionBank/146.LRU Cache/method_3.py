@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time     : 2019/4/11 21:09
 # @Author   : cancan
-# @File     : method_2.py
+# @File     : method_3.py
 # @Function : LRU缓存机制
 
 
@@ -47,12 +47,10 @@ class LRUCache:
 
     def put(self, key: int, value: int) -> None:
         if key in self.data:
-            self.data.pop(key)
+            del self.data[key]
         else:
-            if self.capacity == 0:
+            if len(self.data) == self.capacity:
                 self.data.popitem(last=False)
-            else:
-                self.capacity -= 1
 
         self.data[key] = value
 
