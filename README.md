@@ -312,6 +312,7 @@
 338 [Bit位计数](./QuestionBank/338.Counting%20Bits/)<br>
 342 [4的幂](./QuestionBank/342.Power%20of%20Four/)<br>
 344 [反转字符串](./QuestionBank/344.Reverse%20String/)<br>
+345 [反转字符串中的元音字母](./QuestionBank/345.Reverse%20Vowels%20of%20a%200String/)<br>
 347 [前K个高频元素](./QuestionBank/347.Top%20K%20Frequent%20Elements/)<br>
 349 [两个数组的交集](./QuestionBank/349.Intersection%20of%20Two%20Arrays/)<br>
 350 [两个数组的交集 II](./QuestionBank/350.Intersection%20of%20Two%20Arrays%20II/)<br>
