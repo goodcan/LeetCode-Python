@@ -67,4 +67,4 @@ class Solution:
                 temp.append(nextNode)
                 node = nextNode
 
-        return temp[0] if temp else None
+        return temp[0]
