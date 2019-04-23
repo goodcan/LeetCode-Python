@@ -54,7 +54,7 @@ class Solution:
                     i -= 1
 
                 i += 1
-                print(i)
+
                 node.next = nextNode.next
 
                 nextNode.next = temp[i]
