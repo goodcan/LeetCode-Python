@@ -394,6 +394,7 @@
 989 [数组形式的整数加法](./QuestionBank/989.Add%20to%20Array-Form%20of%20Integer/)<br>
 993 [二叉树的堂兄弟节点](./QuestionBank/993.Cousins%20in%20Binary%20Tree/)<br>
 1012 [十进制整数的反码](./QuestionBank/1012.Complement%20of%20Base%2010%20Integer/)<br>
+1021 [删除最外层的括号](./QuestionBank/1021.Remove%20Outermost%20Parentheses/)<br>
 
 
 ## 声明
