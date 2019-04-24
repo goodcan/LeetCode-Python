@@ -51,7 +51,7 @@ class Solution:
                 n += 1
                 if n > 1:
                     ret += v
-            else
+            else:
                 n -= 1
                 if n > 0:
                     ret += v
