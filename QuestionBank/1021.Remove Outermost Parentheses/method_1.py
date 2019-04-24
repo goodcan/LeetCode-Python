@@ -43,22 +43,17 @@ S 是一个有效括号字符串
 class Solution:
     def removeOuterParentheses(self, S: str) -> str:
 
-        n = []
-        clear = []
+        n = 0
+        ret = ''
 
         for i, v in enumerate(S):
             if v == '(':
-                n.append(i)
-            if v == ')':
-                p = n.pop()
-                if not n:
-                    clear.extend([p, i])
+                n += 1
+                if n > 1:
+                    ret += v
+            else
+                n -= 1
+                if n > 0:
+                    ret += v
 
-        flag = 0
-
-        for i in clear:
-            i -= flag
-            S = S[:i] + S[i + 1:]
-            flag += 1
-
-        return S
+        return ret
