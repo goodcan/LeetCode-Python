@@ -351,6 +351,7 @@
 590 [N叉树的后序遍历](./QuestionBank/590.N-ary%20Tree%20Postorder%20Traversal/)<br>
 622 [设计循环队列](./QuestionBank/622.Design%20Circular%20Queue/)<br>
 637 [二叉树的层平均值](./QuestionBank/637.Average%20of%20Levels%20in%20Binary%20Tree/)<br>
+647 [最长连续递增序列](./QuestionBank/647.Longest%20Continuous%20Increasing%20Subsequence/)<br>
 648 [单词替换](./QuestionBank/648.Replace%20Words/)<br>
 657 [机器人能否返回原点](./QuestionBank/657.Robot%20Return%20to%20Origin/)<br>
 682 [棒球比赛](./QuestionBank/682.Baseball%20Game/)<br>
