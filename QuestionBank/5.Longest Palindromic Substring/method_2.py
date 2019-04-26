@@ -23,7 +23,7 @@ Example 2：
 
 class Solution:
 
-    def longestPalindrome(self, s: str) -> str:
+    def longestPalindrome(self, s):
         self.longest = ''
 
         queue = [(i, i) for i in range(len(s))]
