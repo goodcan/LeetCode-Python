@@ -31,7 +31,6 @@ class Solution(object):
         :rtype: ListNode
         """
         t = {}
-        set_node = None
         prev = None
         node = head
 
