@@ -36,7 +36,6 @@ class Solution(object):
 
         while node:
             if node.val not in t:
-                print(prev)
                 if prev:
                     print(prev.val)
                 t[node.val] = {'num': 1, 'node': prev}
@@ -45,7 +44,6 @@ class Solution(object):
 
             prev = node
             if t[node.val]['num'] > 1:
-                print(node.val)
                 if t[node.val]['node']:
                     t[node.val]['node'].next = node.next
                     prev = t[node.val]['node']
