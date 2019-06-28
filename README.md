@@ -400,6 +400,7 @@
 1002 [查找常用字符](./QuestionBank/1002.Find%20Common%20Characters/)<br>
 1012 [十进制整数的反码](./QuestionBank/1012.Complement%20of%20Base%2010%20Integer/)<br>
 1021 [删除最外层的括号](./QuestionBank/1021.Remove%20Outermost%20Parentheses/)<br>
+1051 [高度检查器](./QuestionBank/1051.Height%20Checker/)<br>
 
 
 ## 声明
