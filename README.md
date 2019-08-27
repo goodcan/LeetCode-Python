@@ -403,6 +403,7 @@
 1021 [删除最外层的括号](./QuestionBank/1021.Remove%20Outermost%20Parentheses/)<br>
 1051 [高度检查器](./QuestionBank/1051.Height%20Checker/)<br>
 1108 [IP 地址无效化](./QuestionBank/1108.Defanging%20an%20IP%20Address/)<br>
+1128 [等价多米诺骨牌对的数量](./QuestionBank/1128.Number%20of%20Equivalent%20Domino%20Pairs/)<br>
 
 
 ## 声明
