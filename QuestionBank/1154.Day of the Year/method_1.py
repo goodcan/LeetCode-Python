@@ -35,8 +35,7 @@ date 表示的范围从 1900 年 1 月 1 日至 2019 年 12 月 31 日
 
 class Solution:
     def dayOfYear(self, date: str) -> int:
-        ds = date.split('-')
-        year, month, day = int(ds[0]), int(ds[1]), int(ds[2])
+        year, month, day = [int(i) for i in date.split('-')]
 
         tmp = {
             1: 0,
