@@ -40,7 +40,6 @@ class Solution:
         ans = 0
 
         for v in range(0, N - d, 4):
-            print(l[v], l[v + 1], l[v + 2], l[v + 3])
             tmp = int(l[v] * l[v + 1] / l[v + 2])
             if ans == 0:
                 ans += tmp + l[v + 3]
