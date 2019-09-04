@@ -384,6 +384,7 @@
 876 [链表的中间结点](./QuestionBank/876.Middle%20of%20the%20Linked%20List/)<br>
 884 [两句话中的不常见单词](./QuestionBank/884.Uncommon%20Words%20from%20Two%20Sentences/)<br>
 896 [单调数列](./QuestionBank/896.Monotonic%20Array/)<br>
+897 [递增顺序查找树](./QuestionBank/897.Increasing%20Order%20Search%20Tree/)<br>
 905 [按奇偶排序数组](./QuestionBank/905.Sort%20Array%20By%20Parity/)<br>
 921 [使括号有效的最少添加](./QuestionBank/921.Minimum%20Add%20to%20Make%20Parentheses%20Valid/)<br>
 922 [按奇偶排序数组 II](./QuestionBank/922.Sort%20Array%20By%20Parity%20II/)<br>
