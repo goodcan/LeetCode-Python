@@ -412,6 +412,7 @@
 1161 [最大层内元素和](./QuestionBank/1161.Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/)<br>
 1185 [一周中的第几天](./QuestionBank/1185.Day%20of%20the%20Week/)<br>
 1189 [“气球” 的最大数量](./QuestionBank/1189.Maximum%20Number%20of%20Balloons/)<br>
+LCP 1 [猜数字](./QuestionBank/LCP1.Guess%20Numbers/)<br>
 
 
 ## 声明
