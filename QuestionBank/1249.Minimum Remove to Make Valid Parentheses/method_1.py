@@ -43,24 +43,21 @@ s[i] 可能是 '('、')' 或英文小写字母
 
 class Solution1:
     def minRemoveToMakeValid(self, s: str) -> str:
-        tmpLeft = 0
         tmpIndex = []
         ret = ''
         delNum = 0
         for i, v in enumerate(s):
             if v == '(':
-                tmpLeft += 1
                 tmpIndex.append(i - delNum)
             elif v == ')':
-                if tmpLeft <= 0:
+                if len(tmpIndex) <= 0:
                     delNum += 1
                     continue
                 else:
-                    tmpLeft -= 1
                     tmpIndex.pop()
             ret += v
 
-        if tmpLeft > 0:
+        if len(tmpIndex) > 0:
             lastNum = 0
             for i in tmpIndex:
                 ret = ret[:i - lastNum] + ret[i + 1 - lastNum:]
