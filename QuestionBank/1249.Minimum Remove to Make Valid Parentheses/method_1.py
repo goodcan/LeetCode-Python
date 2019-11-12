@@ -41,7 +41,7 @@ s[i] 可能是 '('、')' 或英文小写字母
 """
 
 
-class Solution1:
+class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
         tmpIndex = []
         ret = ''
