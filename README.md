@@ -260,6 +260,7 @@
 139 [单词分割](./QuestionBank/139.Word%20Break/)<br>
 140 [单词分割 II](./QuestionBank/140.Word%20Break%20II/)<br>
 141 [环形链表](./QuestionBank/141.Linked%20List%20Cycle/)<br>
+142 [环形链表 II](./QuestionBank/142.Linked%20List%20Cycle%20II/)<br>
 144 [二叉树的前序遍历](./QuestionBank/144.Binary%20Tree%20Preorder%20Traversal/)<br>
 145 [二叉树的后序遍历](./QuestionBank/145.Binary%20Tree%20Postorder%20Traversal/)<br>
 146 [LRU缓存机制](./QuestionBank/146.LRU%20Cache/)<br>
