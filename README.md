@@ -333,6 +333,7 @@
 414 [第三大的数](./QuestionBank/414.Third%20Maximum%20Number/)<br>
 415 [字符串相加](./QuestionBank/415.Add%20Strings/)<br>
 429 [N叉树的层序遍历](./QuestionBank/429.N-ary%20Tree%20Level%20Order%20Traversal/)<br>
+430 [扁平化多级双向链表](./QuestionBank/430.Flatten a Multilevel Doubly Linked List/)<br>
 434 [字符串中的单词数](./QuestionBank/434.Number%20of%20Segments%20in%20a%20String/)<br>
 442 [数组中重复的数据](./QuestionBank/442.Find%20All%20Duplicates%20in%20an%20Array/)<br>
 445 [两数相加 II](./QuestionBank/445.Add%20Two%20Numbers%20II/)<br>
