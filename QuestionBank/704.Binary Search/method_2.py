@@ -37,7 +37,4 @@ class Solution(object):
 
         if target not in nums:
             return -1
-
-        nums.sort()
-
         return nums.index(target)
