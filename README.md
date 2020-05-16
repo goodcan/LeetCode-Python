@@ -206,6 +206,7 @@
 20 [有效的括号](./QuestionBank/20.Valid%20Parentheses/)<br>
 21 [合并两个有序链表](./QuestionBank/21.Merge%20Two%20Sorted%20Lists/)<br>
 22 [括号生成](./QuestionBank/22.Generate%20Parentheses/)<br>
+25 [K 个一组翻转链表](./QuestionBank/25.Reverse%20Nodes%20in%20k-Group/)<br>
 26 [从排序数组中删除重复项](./QuestionBank/26.Remove%20Duplicates%20from%20Sorted%20Array/)<br>
 27 [移除元素](./QuestionBank/27.Remove%20Element/)<br>
 28 [实现strStr](./QuestionBank/28.Implement%20strStr()/)<br>
