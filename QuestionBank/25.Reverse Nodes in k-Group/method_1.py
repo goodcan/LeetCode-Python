@@ -61,7 +61,7 @@ class Solution:
             tmp = next.next
             next.next = pre
             pre = next
+            next = tmp
             n += 1
             if n == k:
                 return pre, head
-            next = tmp
