@@ -14,7 +14,7 @@ Example 1:
 输入: "aba"
 输出: True
 
-Exmaple 2:
+Example 2:
 输入: "abca"
 输出: True
 解释: 你可以删除c字符。
