@@ -22,24 +22,23 @@ Example 2：
 
 
 class Solution:
-	def longestPalindrome(self, s):
+    def longestPalindrome(self, s):
 
-		if not s:
-			return s
+        if not s:
+            return s
 
-		l = len(s)
-		end = l // 2
+        l = len(s)
+        end = l // 2
 
-		for j in range(end, 0, -1):
-			ans = None
-			for start in range(l - j):
-				if s[start:start + j] == \
-						s[start + j + 1:start + 2 * j + 1][::-1]:
-					return s[start:start + 2 * j + 1]
-				elif s[start:start + j] == s[start + j:start + 2 * j][::-1]:
-					ans = s[start:start + 2 * j]
+        for j in range(end, 0, -1):
+            ans = None
+            for start in range(l - j):
+                if s[start:start + j] == s[start + j + 1:start + 2 * j + 1][::-1]:
+                    return s[start:start + 2 * j + 1]
+                elif s[start:start + j] == s[start + j:start + 2 * j][::-1]:
+                    ans = s[start:start + 2 * j]
 
-			if ans:
-				return ans
+            if ans:
+                return ans
 
-		return s[0]
+        return s[0]
