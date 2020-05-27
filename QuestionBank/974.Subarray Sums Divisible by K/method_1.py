@@ -41,7 +41,7 @@ class Solution:
         total, ans = 0, 0
         for v in A:
             total += v
-            m = v % K
+            m = total % K
             ans += tmp.get(m, 0)
             tmp[m] = tmp.get(m, 0) + 1
         return ans
