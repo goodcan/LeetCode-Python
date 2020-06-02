@@ -435,7 +435,8 @@ LCP 1 [猜数字](./QuestionBank/LCP1.Guess%20Numbers/)<br>
 
 ## 面试题
 
-01.01 [判定字符是否唯一](./interviewQuestion/01.01.Is%20Unique%20LCCI/method_1.py)<br>
+01.01 [判定字符是否唯一](./interviewQuestion/01.01.Is%20Unique%20LCCI)<br>
+64 [求1+2+…+n](./interviewQuestion/64.求1+2+…+n/)<br>
 
 ## 声明
 代码仅供参考，如有不恰当、不正确的地方，欢迎批评指正，谢谢……
