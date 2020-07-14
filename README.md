@@ -432,6 +432,7 @@
 1249 [移除无效的括号](./QuestionBank/1249.Minimum%20Remove%20to%20Make%20Valid%20Parentheses/)<br>
 1365 [有多少小于当前数字的数字](./QuestionBank/1365.How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/)<br>
 1512 [好数对的数目](./QuestionBank/1512.Number%20of%20Good%20Pairs/)<br>
+1470 [重新排列数组](./QuestionBank/1470.Shuffle%20the%20Array/)<br>
 1480 [一维数组的动态和](./QuestionBank/1480.Running%20Sum%20of%201d%20Array/)<br>
 LCP 1 [猜数字](./QuestionBank/LCP1.Guess%20Numbers/)<br>
 
