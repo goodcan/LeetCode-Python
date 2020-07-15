@@ -40,8 +40,8 @@ from typing import List
 
 class Solution:
     def kidsWithCandies(self, candies: List[int], extraCandies: int) -> List[bool]:
-        maxCandies = max(candies)
         ans = []
+        maxCandies = max(candies)
         for v in candies:
             if v + extraCandies >= maxCandies:
                 ans.append(True)
