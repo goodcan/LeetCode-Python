@@ -39,7 +39,7 @@ Note：
 
 class Solution:
     def xorOperation(self, n: int, start: int) -> int:
-        ans = start + 2 * 0
+        ans = start
         for v in range(1, n):
             ans ^= start + 2 * v
         return ans
