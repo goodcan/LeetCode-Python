@@ -26,13 +26,12 @@ class Solution:
     def rotateString(self, A: str, B: str) -> bool:
         if not A and not B:
             return True
-        la = len(A)
-        lb = len(B)
-        if la != lb:
+        l = len(A)
+        if l != len(B):
             return False
-        for idx in range(la):
+        for idx in range(l):
             if A[idx] == B[0]:
-                d = lb - idx
-                if A[idx:la] == B[:d] and A[:idx] == B[d:]:
+                d = l - idx
+                if A[idx:] == B[:d] and A[:idx] == B[d:]:
                     return True
         return False
