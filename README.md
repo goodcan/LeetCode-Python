@@ -386,6 +386,7 @@
 762 [二进制表示中质数个计算置位](./QuestionBank/762.Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/)<br>
 766 [托普利茨矩阵](./QuestionBank/766.Toeplitz%20Matrix/)<br>
 771 [宝石与石头](./QuestionBank/771.Jewels%20and%20Stones/)<br>
+796 [旋转字符串](./QuestionBank/796.Rotate%20String/)<br>
 804 [唯一摩尔斯密码词](./QuestionBank/804.Unique%20Morse%20Code%20Words/)<br>
 807 [保持城市天际线](./QuestionBank/807.Max%20Increase%20to%20Keep%20City%20Skyline/)<br>
 811 [子域名访问计数](./QuestionBank/811.Subdomain%20Visit%20Count/)<br>
