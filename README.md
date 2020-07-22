@@ -433,6 +433,7 @@
 1249 [移除无效的括号](./QuestionBank/1249.Minimum%20Remove%20to%20Make%20Valid%20Parentheses/)<br>
 1281 [整数的各位积和之差](./QuestionBank/1281.Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/)<br>
 1295 [统计位数为偶数的数字](./QuestionBank/1295.Find%20Numbers%20with%20Even%20Number%20of%20Digits/)<br>
+1313 [解压缩编码列表](./QuestionBank/1313.Decompress%20Run-Length%20Encoded%20List/)<br>
 1342 [将数字变成 0 的操作次数](./QuestionBank/1342.Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/)<br>
 1365 [有多少小于当前数字的数字](./QuestionBank/1365.How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/)<br>
 1431 [拥有最多糖果的孩子](./QuestionBank/1431.Kids%20With%20the%20Greatest%20Number%20of%20Candies/)<br>
