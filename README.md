@@ -332,6 +332,7 @@
 384 [打乱数组](./QuestionBank/384.Shuffle%20an%20Array/)<br>
 387 [字符串中的第一个唯一字符](./QuestionBank/387.First%20Unique%20Character%20in%20a%20String/)<br>
 389 [找不同](./QuestionBank/389.Find%20the%20Difference/)<br>
+392 [判断子序列](./QuestionBank/392.Is%20Subsequence/)<br>
 397 [整数替换](./QuestionBank/397.Integer%20Replacement/)<br>
 404 [左叶子之和](./QuestionBank/404.Sum%20of%20Left%20Leaves/)<br>
 405 [数字转换为十六进制数](./QuestionBank/405.Convert%20a%20Number%20to%20Hexadecimal/)<br>
