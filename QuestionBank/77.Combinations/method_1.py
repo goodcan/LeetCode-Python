@@ -27,9 +27,9 @@ from typing import List
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
         self.ret = []
-        self.nums = list(range(1, n + 1))
+        self.n = n
         self.k = k
-        self.dfs(0, [])
+        self.dfs(1, [])
         return self.ret
 
     def dfs(self, start, l):
@@ -40,5 +40,5 @@ class Solution:
             self.ret.append(l)
             return
 
-        for i, v in enumerate(self.nums[start:]):
-            self.dfs(i + start + 1, l + [v])
+        for i in range(start, self.n + 1):
+            self.dfs(i + 1, l + [i])
