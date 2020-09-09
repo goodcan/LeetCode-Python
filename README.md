@@ -216,6 +216,7 @@
 35 [搜索插入位置](./QuestionBank/35.Search%20Insert%20Position/)<br>
 36 [有效的数独](./QuestionBank/36.Valid%20Sudoku/)<br>
 38 [数数并说](./QuestionBank/38.Count%20and%20Say/)<br>
+38 [组合总和](./QuestionBank/39.Combination%20Sum/)<br>
 43 [字符串相乘](./QuestionBank/43.Multiply%20Strings/)<br>
 46 [全排列](./QuestionBank/46.Permutations/)<br>
 48 [旋转图像](./QuestionBank/48.Rotate%20Image/)<br>
