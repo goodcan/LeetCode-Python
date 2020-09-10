@@ -217,6 +217,7 @@
 36 [有效的数独](./QuestionBank/36.Valid%20Sudoku/)<br>
 38 [数数并说](./QuestionBank/38.Count%20and%20Say/)<br>
 39 [组合总和](./QuestionBank/39.Combination%20Sum/)<br>
+40 [组合总和 II](./QuestionBank/40.Combination%20Sum%20II/)<br>
 43 [字符串相乘](./QuestionBank/43.Multiply%20Strings/)<br>
 46 [全排列](./QuestionBank/46.Permutations/)<br>
 48 [旋转图像](./QuestionBank/48.Rotate%20Image/)<br>
