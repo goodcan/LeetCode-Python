@@ -235,6 +235,7 @@
 75 [颜色分类](./QuestionBank/75.Sort%20Colors/)<br>
 77 [组合](./QuestionBank/77.Combinations/)<br>
 78 [子集](./QuestionBank/78.Subsets/)<br>
+79 [单词搜索](./QuestionBank/79.Word%20Search/)<br>
 82 [删除排序链表中的重复元素 II](./QuestionBank/82.Remove%20Duplicates%20from%20Sorted%20List%20II/)<br>
 83 [删除排序链表中的重复元素](./QuestionBank/83.Remove%20Duplicates%20from%20Sorted%20List/)<br>
 88 [合并两个有序数组](./QuestionBank/88.Merge%20Sorted%20Array/)<br>
