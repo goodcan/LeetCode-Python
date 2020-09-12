@@ -55,32 +55,12 @@ class Solution:
         if idx >= self.maxLen:
             return True
 
-        key = "%s-%s" % (i, j + 1)
-        if key not in tmp:
-            tmp[key] = True
-            if self.dfs(idx, i, j + 1, tmp):
-                return True
-            del tmp[key]
-
-        key = "%s-%s" % (i, j - 1)
-        if key not in tmp:
-            tmp[key] = True
-            if self.dfs(idx, i, j - 1, tmp):
-                return True
-            del tmp[key]
-
-        key = "%s-%s" % (i + 1, j)
-        if key not in tmp:
-            tmp[key] = True
-            if self.dfs(idx, i + 1, j, tmp):
-                return True
-            del tmp[key]
-
-        key = "%s-%s" % (i - 1, j)
-        if key not in tmp:
-            tmp[key] = True
-            if self.dfs(idx, i - 1, j, tmp):
-                return True
-            del tmp[key]
+        for item in [[i, j + 1], [i, j - 1], [i + 1, j], [i - 1, j]]:
+            key = "%s-%s" % (item[0], item[1])
+            if key not in tmp:
+                tmp[key] = True
+                if self.dfs(idx, item[0], item[1], tmp):
+                    return True
+                del tmp[key]
 
         return False
