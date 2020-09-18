@@ -220,6 +220,7 @@
 40 [组合总和 II](./QuestionBank/40.Combination%20Sum%20II/)<br>
 43 [字符串相乘](./QuestionBank/43.Multiply%20Strings/)<br>
 46 [全排列](./QuestionBank/46.Permutations/)<br>
+47 [全排列 II](./QuestionBank/47.Permutations%20II/)<br>
 48 [旋转图像](./QuestionBank/48.Rotate%20Image/)<br>
 49 [字母异位词分组](./QuestionBank/49.Group%20Anagrams/)<br>
 50 [Pow(x, n)](./QuestionBank/50.Pow(x,%20n)/)<br>
