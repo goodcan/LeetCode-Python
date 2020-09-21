@@ -429,6 +429,7 @@
 1006 [笨阶乘](./QuestionBank/1006.Clumsy%20Factorial/)<br>
 1012 [十进制整数的反码](./QuestionBank/1012.Complement%20of%20Base%2010%20Integer/)<br>
 1021 [删除最外层的括号](./QuestionBank/1021.Remove%20Outermost%20Parentheses/)<br>
+1038 [从二叉搜索树到更大和树](./QuestionBank/1038.Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree/)<br>
 1051 [高度检查器](./QuestionBank/1051.Height%20Checker/)<br>
 1108 [IP 地址无效化](./QuestionBank/1108.Defanging%20an%20IP%20Address/)<br>
 1128 [等价多米诺骨牌对的数量](./QuestionBank/1128.Number%20of%20Equivalent%20Domino%20Pairs/)<br>
