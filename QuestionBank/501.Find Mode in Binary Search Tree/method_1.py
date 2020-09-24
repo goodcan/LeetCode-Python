@@ -71,6 +71,4 @@ class Solution:
             if v == countMax:
                 ret.append(k)
 
-        ret = sorted(ret)
-
         return ret
