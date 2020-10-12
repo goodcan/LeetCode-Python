@@ -362,6 +362,7 @@
 509 [斐波那契数](./QuestionBank/509.Fibonacci%20Number/)<br>
 515 [在每个树行中找最大值](./QuestionBank/515.Find%20Largest%20Value%20in%20Each%20Tree%20Row/)<br>
 520 [检测大写字母](./QuestionBank/520.Detect%20Capital/)<br>
+530 [二叉搜索树的最小绝对差](./QuestionBank/530.Minimum%20Absolute%20Difference%20in%20BST/)<br>
 537 [复数乘法](./QuestionBank/537.Complex%20Number%20Multiplication/)<br>
 538 [把二叉搜索树转换为累加树](./QuestionBank/538.Convert%20BST%20to%20Greater%20Tree/)<br>
 551 [学生出勤纪录 I](./QuestionBank/551.Student%20Attendance%20Record%20I/)<br>
