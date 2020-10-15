@@ -71,3 +71,5 @@ class Solution:
                 temp.append(t[-1].right)
 
             t = temp
+
+        return root
