@@ -417,6 +417,7 @@
 905 [按奇偶排序数组](./QuestionBank/905.Sort%20Array%20By%20Parity/)<br>
 921 [使括号有效的最少添加](./QuestionBank/921.Minimum%20Add%20to%20Make%20Parentheses%20Valid/)<br>
 922 [按奇偶排序数组 II](./QuestionBank/922.Sort%20Array%20By%20Parity%20II/)<br>
+925 [长按键入](./QuestionBank/925.Long%20Pressed%20Name/)<br>
 933 [最近的请求次数](./QuestionBank/933.Number%20of%20Recent%20Calls/)<br>
 938 [二叉搜索树的范围和](./QuestionBank/938.Range%20Sum%20of%20BST/)<br>
 942 [增减字符串匹配](./QuestionBank/942.DI%20String%20Match/)<br>
