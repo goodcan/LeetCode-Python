@@ -44,16 +44,15 @@ class Solution:
         # 2 下降
         flag = 1
         count1 = 0
-        i = 1
+
         for idx in range(1, l):
-            i = idx
-            if flag == 1 and A[idx - 1] >= A[i]:
+            if flag == 1 and A[idx - 1] >= A[idx]:
                 flag = 2
 
             if flag == 1:
                 count1 += 1
 
-            if flag == 2 and A[idx - 1] <= A[i]:
+            if flag == 2 and A[idx - 1] <= A[idx]:
                 return False
 
         if count1 == 0 or flag == 1:
