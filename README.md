@@ -452,6 +452,7 @@
 1295 [统计位数为偶数的数字](./QuestionBank/1295.Find%20Numbers%20with%20Even%20Number%20of%20Digits/)<br>
 1313 [解压缩编码列表](./QuestionBank/1313.Decompress%20Run-Length%20Encoded%20List/)<br>
 1342 [将数字变成 0 的操作次数](./QuestionBank/1342.Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/)<br>
+1356 [根据数字二进制下 1 的数目排序](./QuestionBank/1356.Sort%20Integers%20by%20The%20Number%20of%201%20Bits/)<br>
 1365 [有多少小于当前数字的数字](./QuestionBank/1365.How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/)<br>
 1431 [拥有最多糖果的孩子](./QuestionBank/1431.Kids%20With%20the%20Greatest%20Number%20of%20Candies/)<br>
 1470 [重新排列数组](./QuestionBank/1470.Shuffle%20the%20Array/)<br>
