@@ -460,6 +460,7 @@
 1480 [一维数组的动态和](./QuestionBank/1480.Running%20Sum%20of%201d%20Array/)<br>
 1486 [数组异或操作](./QuestionBank/1486.XOR%20Operation%20in%20an%20Array/)<br>
 1512 [好数对的数目](./QuestionBank/1512.Number%20of%20Good%20Pairs/)<br>
+1614 [括号的最大嵌套深度](./QuestionBank/1614.Maximum%20Nesting%20Depth%20of%20the%20Parentheses/)<br>
 LCP 1 [猜数字](./QuestionBank/LCP1.Guess%20Numbers/)<br>
 
 ## 面试题
