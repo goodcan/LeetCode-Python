@@ -462,6 +462,7 @@
 1480 [一维数组的动态和](./QuestionBank/1480.Running%20Sum%20of%201d%20Array/)<br>
 1486 [数组异或操作](./QuestionBank/1486.XOR%20Operation%20in%20an%20Array/)<br>
 1512 [好数对的数目](./QuestionBank/1512.Number%20of%20Good%20Pairs/)<br>
+1572 [矩阵对角线元素的和](./QuestionBank/1572.Matrix%20Diagonal%20Sum/)<br>
 1603 [设计停车系统](./QuestionBank/1603.Design%20Parking%20System/)<br>
 1614 [括号的最大嵌套深度](./QuestionBank/1614.Maximum%20Nesting%20Depth%20of%20the%20Parentheses/)<br>
 1662 [检查两个字符串数组是否相等](./QuestionBank/1662.Check%20If%20Two%20String%20Arrays%20are%20Equivalent/)<br>
