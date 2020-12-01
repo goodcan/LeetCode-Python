@@ -461,6 +461,7 @@
 1486 [数组异或操作](./QuestionBank/1486.XOR%20Operation%20in%20an%20Array/)<br>
 1512 [好数对的数目](./QuestionBank/1512.Number%20of%20Good%20Pairs/)<br>
 1614 [括号的最大嵌套深度](./QuestionBank/1614.Maximum%20Nesting%20Depth%20of%20the%20Parentheses/)<br>
+1672 [最富有客户的资产总量](./QuestionBank/1672.Richest%20Customer%20Wealth/)<br>
 LCP 1 [猜数字](./QuestionBank/LCP1.Guess%20Numbers/)<br>
 
 ## 面试题
