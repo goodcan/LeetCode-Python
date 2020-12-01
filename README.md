@@ -449,6 +449,7 @@
 1207 [独一无二的出现次数](./QuestionBank/1207.Unique%20Number%20of%20Occurrences/)<br>
 1213 [三个有序数组的交集](./QuestionBank/1213.Intersection%20of%20Three%20Sorted%20Arrays/)<br>
 1249 [移除无效的括号](./QuestionBank/1249.Minimum%20Remove%20to%20Make%20Valid%20Parentheses/)<br>
+1266 [访问所有点的最小时间](./QuestionBank/1266.Minimum%20Time%20Visiting%20All%20Points/)<br>
 1281 [整数的各位积和之差](./QuestionBank/1281.Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/)<br>
 1295 [统计位数为偶数的数字](./QuestionBank/1295.Find%20Numbers%20with%20Even%20Number%20of%20Digits/)<br>
 1313 [解压缩编码列表](./QuestionBank/1313.Decompress%20Run-Length%20Encoded%20List/)<br>
