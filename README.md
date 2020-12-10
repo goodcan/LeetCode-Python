@@ -409,6 +409,7 @@
 832 [翻转图像](./QuestionBank/832.Flipping%20an%20Image/)<br>
 844 [比较含退格的字符串](./QuestionBank/844.Backspace%20String%20Compare/)<br>
 852 [山脉数组的峰顶索引](./QuestionBank/852.Peak%20Index%20in%20a%20Mountain%20Array/)<br>
+860 [柠檬水找零](./QuestionBank/860.Lemonade%20Change/)<br>
 867 [转置矩阵](./QuestionBank/867.Transpose%20Matrix/)<br>
 868 [二进制间距](./QuestionBank/868.Binary%20Gap/)<br>
 876 [链表的中间结点](./QuestionBank/876.Middle%20of%20the%20Linked%20List/)<br>
