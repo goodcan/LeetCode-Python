@@ -379,6 +379,7 @@
 590 [N叉树的后序遍历](./QuestionBank/590.N-ary%20Tree%20Postorder%20Traversal/)<br>
 617 [合并二叉树](./QuestionBank/617.Merge%20Two%20Binary%20Trees/)<br>
 622 [设计循环队列](./QuestionBank/622.Design%20Circular%20Queue/)<br>
+628 [三个数的最大乘积](./QuestionBank/628.Maximum%20Product%20of%20Three%20Numbers/)<br>
 637 [二叉树的层平均值](./QuestionBank/637.Average%20of%20Levels%20in%20Binary%20Tree/)<br>
 648 [单词替换](./QuestionBank/648.Replace%20Words/)<br>
 657 [机器人能否返回原点](./QuestionBank/657.Robot%20Return%20to%20Origin/)<br>
