@@ -381,6 +381,7 @@
 622 [设计循环队列](./QuestionBank/622.Design%20Circular%20Queue/)<br>
 628 [三个数的最大乘积](./QuestionBank/628.Maximum%20Product%20of%20Three%20Numbers/)<br>
 637 [二叉树的层平均值](./QuestionBank/637.Average%20of%20Levels%20in%20Binary%20Tree/)<br>
+643 [子数组最大平均数 I](./QuestionBank/643.Maximum%20Average%20Subarray%20I/)<br>
 648 [单词替换](./QuestionBank/648.Replace%20Words/)<br>
 657 [机器人能否返回原点](./QuestionBank/657.Robot%20Return%20to%20Origin/)<br>
 658 [找到 K 个最接近的元素](./QuestionBank/658.Find%20K%20Closest%20Elements/)<br>
