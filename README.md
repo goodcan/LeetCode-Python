@@ -372,6 +372,7 @@
 559 [N叉树的最大深度](./QuestionBank/559.Maximum%20Depth%20of%20N-ary%20Tree/)<br>
 560 [和为K的子数组](./QuestionBank/560.Subarray%20Sum%20Equals%20K/)<br>
 561 [数组拆分 I](./QuestionBank/561.Array%20Partition%20I/)<br>
+566 [重塑矩阵](./QuestionBank/566.Reshape%20the%20Matrix/)<br>
 567 [字符串的排列](./QuestionBank/567.Permutation%20in%20String/)<br>
 572 [另一个树的子树](./QuestionBank/572.Subtree%20of%20Another%20Tree/)<br>
 575 [分糖果](./QuestionBank/575.Distribute%20Candies/)<br>
