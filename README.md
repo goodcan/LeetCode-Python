@@ -476,7 +476,6 @@
 1614 [括号的最大嵌套深度](./QuestionBank/1614.Maximum%20Nesting%20Depth%20of%20the%20Parentheses/)<br>
 1662 [检查两个字符串数组是否相等](./QuestionBank/1662.Check%20If%20Two%20String%20Arrays%20are%20Equivalent/)<br>
 1672 [最富有客户的资产总量](./QuestionBank/1672.Richest%20Customer%20Wealth/)<br>
-LCP 1 [猜数字](./QuestionBank/LCP1.Guess%20Numbers/)<br>
 
 ## 面试题
 
@@ -484,6 +483,9 @@ LCP 1 [猜数字](./QuestionBank/LCP1.Guess%20Numbers/)<br>
 16.01 [交换数字](./interviewQuestion/16.01.Swap%20Numbers%20LCCI)<br>
 02.05 [链表求和](./interviewQuestion/02.05.Sum%20Lists%20LCCI)<br>
 64 [求1+2+…+n](./interviewQuestion/64.求1+2+…+n/)<br>
+
+## LCP
+LCP 1 [猜数字](./LCP/LCP1.Guess%20Numbers/)<br>
 
 ## 声明
 代码仅供参考，如有不恰当、不正确的地方，欢迎批评指正，谢谢……
