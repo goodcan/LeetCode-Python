@@ -523,6 +523,7 @@
 1614 [括号的最大嵌套深度](./QuestionBank/1614.Maximum%20Nesting%20Depth%20of%20the%20Parentheses/)<br>
 1662 [检查两个字符串数组是否相等](./QuestionBank/1662.Check%20If%20Two%20String%20Arrays%20are%20Equivalent/)<br>
 1672 [最富有客户的资产总量](./QuestionBank/1672.Richest%20Customer%20Wealth/)<br>
+5738 [K 进制表示下的各位数字总和](./QuestionBank/5738.Sum%20of%20Digits%20in%20Base%20K/)<br>
 
 ## 面试题
 
