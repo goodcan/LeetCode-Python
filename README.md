@@ -532,6 +532,7 @@
 16.01 [交换数字](./interviewQuestion/16.01.Swap%20Numbers%20LCCI)<br>
 17.04 [消失的数字](./interviewQuestion/17.04.Missing%20Number%20LCCI)<br>
 17.10 [主要元素](./interviewQuestion/17.10.Find%20Majority%20Element%20LCCI)<br>
+17.14 [最小K个数](./interviewQuestion/17.14.Smallest%20K%20LCCI)<br>
 64 [求1+2+…+n](./interviewQuestion/64.求1+2+…+n/)<br>
 
 ## LCP
