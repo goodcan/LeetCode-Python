@@ -383,6 +383,7 @@
 347 [前K个高频元素](./QuestionBank/347.Top%20K%20Frequent%20Elements/)<br>
 349 [两个数组的交集](./QuestionBank/349.Intersection%20of%20Two%20Arrays/)<br>
 350 [两个数组的交集 II](./QuestionBank/350.Intersection%20of%20Two%20Arrays%20II/)<br>
+367 [有效的完全平方数](./QuestionBank/367.Valid%20Perfect%20Square)<br>
 371 [两整数之和](./QuestionBank/371.Sum%20of%20Two%20Integers/)<br>
 374 [猜数字大小](./QuestionBank/374.Guess%20Number%20Higher%20or%20Lower/)<br>
 382 [链表随机节点](./QuestionBank/382.Linked%20List%20Random%20Node/)<br>
