@@ -522,6 +522,7 @@
 1480 [一维数组的动态和](./QuestionBank/1480.Running%20Sum%20of%201d%20Array/)<br>
 1486 [数组异或操作](./QuestionBank/1486.XOR%20Operation%20in%20an%20Array/)<br>
 1512 [好数对的数目](./QuestionBank/1512.Number%20of%20Good%20Pairs/)<br>
+1518 [换酒问题](./QuestionBank/1518.Water%20Bottles/)<br>
 1556 [千位分隔数](./QuestionBank/1556.Thousand%20Separator/)<br>
 1572 [矩阵对角线元素的和](./QuestionBank/1572.Matrix%20Diagonal%20Sum/)<br>
 1603 [设计停车系统](./QuestionBank/1603.Design%20Parking%20System/)<br>
