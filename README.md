@@ -410,6 +410,7 @@
 476 [数字的补数](./QuestionBank/476.Number%20Complement/)<br>
 485 [最大连续1的个数](./QuestionBank/485.Max%20Consecutive%20Ones/)<br>
 486 [预测赢家](./QuestionBank/486.Predict%20the%20Winner/)<br>
+495 [提莫攻击](./QuestionBank/495.Teemo%20Attacking/)<br>
 501 [二叉搜索树中的众数](./QuestionBank/501.Find%20Mode%20in%20Binary%20Search%20Tree/)<br>
 509 [斐波那契数](./QuestionBank/509.Fibonacci%20Number/)<br>
 515 [在每个树行中找最大值](./QuestionBank/515.Find%20Largest%20Value%20in%20Each%20Tree%20Row/)<br>
