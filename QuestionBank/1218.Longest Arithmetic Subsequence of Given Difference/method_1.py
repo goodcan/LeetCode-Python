@@ -26,8 +26,8 @@ Example 3：
 解释：最长的等差子序列是 [7,5,3,1]。
  
 Note：
-1 <= arr.length <= 105
--104 <= arr[i], difference <= 104
+ - 1 <= arr.length <= 105
+ - -104 <= arr[i], difference <= 104
 """
 
 from typing import List
