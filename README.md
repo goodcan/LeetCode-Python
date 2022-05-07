@@ -404,6 +404,7 @@
 448 [找到所有数组中消失的数字](./QuestionBank/448.Find%20All%20Numbers%20Disappeared%20in%20an%20Array/)<br>
 451 [根据字符出现频率排序](./QuestionBank/451.Sort%20Characters%20By%20Frequency/)<br>
 454 [四数相加 II](./QuestionBank/454.4Sum%20II/)<br>
+458 [重复的子字符串](./QuestionBank/459.Repeated%20Substring%20Pattern/)<br>
 461 [汉明距离](./QuestionBank/461.Hamming%20Distance/)<br>
 476 [数字的补数](./QuestionBank/476.Number%20Complement/)<br>
 485 [最大连续1的个数](./QuestionBank/485.Max%20Consecutive%20Ones/)<br>
