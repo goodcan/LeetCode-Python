@@ -551,8 +551,8 @@
 
 ## LCP
 
-LCP 1 [猜数字](./LCP/LCP1.Guess%20Numbers/)<br>
-LCP 6 [拿硬币](./LCP/LCP6.Take%20Coins/)<br>
+1 [猜数字](./LCP/1.Guess%20Numbers/)<br>
+6 [拿硬币](./LCP/6.Take%20Coins/)<br>
 
 ## 声明
 
