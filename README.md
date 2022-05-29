@@ -553,6 +553,7 @@
 
 1 [猜数字](./LCP/1.Guess%20Numbers/)<br>
 6 [拿硬币](./LCP/6.Take%20Coins/)<br>
+6 [蓄水](./LCP/33.Store%20Water/)<br>
 
 ## 声明
 
