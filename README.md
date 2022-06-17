@@ -533,6 +533,7 @@
 1614 [括号的最大嵌套深度](./QuestionBank/1614.Maximum%20Nesting%20Depth%20of%20the%20Parentheses/)<br>
 1662 [检查两个字符串数组是否相等](./QuestionBank/1662.Check%20If%20Two%20String%20Arrays%20are%20Equivalent/)<br>
 1672 [最富有客户的资产总量](./QuestionBank/1672.Richest%20Customer%20Wealth/)<br>
+1721 [交换链表中的节点](./QuestionBank/1721.Swapping%20Nodes%20in%20a%20Linked%20List/)<br>
 1748 [唯一元素的和](./QuestionBank/1748.Sum%20of%20Unique%20Elements/)<br>
 1784 [检查二进制字符串字段](./QuestionBank/1784.Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/)<br>
 5738 [K 进制表示下的各位数字总和](./QuestionBank/5738.Sum%20of%20Digits%20in%20Base%20K/)<br>
