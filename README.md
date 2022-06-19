@@ -534,6 +534,7 @@
 1614 [括号的最大嵌套深度](./QuestionBank/1614.Maximum%20Nesting%20Depth%20of%20the%20Parentheses/)<br>
 1662 [检查两个字符串数组是否相等](./QuestionBank/1662.Check%20If%20Two%20String%20Arrays%20are%20Equivalent/)<br>
 1672 [最富有客户的资产总量](./QuestionBank/1672.Richest%20Customer%20Wealth/)<br>
+1721 [交换链表中的节点](./QuestionBank/1721.Swapping%20Nodes%20in%20a%20Linked%20List/)<br>
 1748 [唯一元素的和](./QuestionBank/1748.Sum%20of%20Unique%20Elements/)<br>
 1784 [检查二进制字符串字段](./QuestionBank/1784.Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/)<br>
 5738 [K 进制表示下的各位数字总和](./QuestionBank/5738.Sum%20of%20Digits%20in%20Base%20K/)<br>
@@ -544,6 +545,7 @@
 01.05 [一次编辑](./interviewQuestion/01.05.One%20Away%20LCCI)<br>
 02.05 [链表求和](./interviewQuestion/02.05.Sum%20Lists%20LCCI)<br>
 16.01 [交换数字](./interviewQuestion/16.01.Swap%20Numbers%20LCCI)<br>
+16.02 [单词频率](./interviewQuestion/16.02.Words%20Frequency%20LCCI)<br>
 17.04 [消失的数字](./interviewQuestion/17.04.Missing%20Number%20LCCI)<br>
 17.10 [主要元素](./interviewQuestion/17.10.Find%20Majority%20Element%20LCCI)<br>
 17.11 [单词距离](./interviewQuestion/17.11.Find%20Closest%20LCCI)<br>
