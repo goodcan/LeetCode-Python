@@ -507,6 +507,7 @@
 1137 [第 N 个泰波那契数](./QuestionBank/1137.N-th%20Tribonacci%20Number/)<br>
 1154 [一年中的第几天](./QuestionBank/1154.Day%20of%20the%20Year/)<br>
 1161 [最大层内元素和](./QuestionBank/1161.Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/)<br>
+1175 [质数排列](./QuestionBank/1175.Prime%20Arrangements/)<br>
 1185 [一周中的第几天](./QuestionBank/1185.Day%20of%20the%20Week/)<br>
 1189 [“气球” 的最大数量](./QuestionBank/1189.Maximum%20Number%20of%20Balloons/)<br>
 1207 [独一无二的出现次数](./QuestionBank/1207.Unique%20Number%20of%20Occurrences/)<br>
