@@ -258,6 +258,7 @@
 27 [移除元素](./QuestionBank/27.Remove%20Element/)<br>
 28 [实现strStr](./QuestionBank/28.Implement%20strStr()/)<br>
 29 [两数相除](./QuestionBank/29.Divide%20Two%20Integers/)<br>
+30 [串联所有单词的子串](./QuestionBank/30.Substring%20with%20Concatenation%20of%20All%20Words/)<br>
 33 [搜索旋转排序数组](./QuestionBank/33.Search%20in%20Rotated%20Sorted%20Array/)<br>
 34 [在排序数组中查找元素的第一个和最后一个位置](./QuestionBank/34.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/)<br>
 35 [搜索插入位置](./QuestionBank/35.Search%20Insert%20Position/)<br>
