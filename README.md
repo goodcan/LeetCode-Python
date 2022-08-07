@@ -525,6 +525,7 @@
 1356 [根据数字二进制下 1 的数目排序](./QuestionBank/1356.Sort%20Integers%20by%20The%20Number%20of%201%20Bits/)<br>
 1365 [有多少小于当前数字的数字](./QuestionBank/1365.How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/)<br>
 1389 [按既定顺序创建目标数组](./QuestionBank/1389.Create%20Target%20Array%20in%20the%20Given%20Order/)<br>
+1403 [非递增顺序的最小子序列](./QuestionBank/1403.Minimum%20Subsequence%20in%20Non-Increasing%20Order/)<br>
 1431 [拥有最多糖果的孩子](./QuestionBank/1431.Kids%20With%20the%20Greatest%20Number%20of%20Candies/)<br>
 1470 [重新排列数组](./QuestionBank/1470.Shuffle%20the%20Array/)<br>
 1480 [一维数组的动态和](./QuestionBank/1480.Running%20Sum%20of%201d%20Array/)<br>
