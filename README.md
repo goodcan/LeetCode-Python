@@ -536,6 +536,7 @@
 1518 [换酒问题](./QuestionBank/1518.Water%20Bottles/)<br>
 1556 [千位分隔数](./QuestionBank/1556.Thousand%20Separator/)<br>
 1572 [矩阵对角线元素的和](./QuestionBank/1572.Matrix%20Diagonal%20Sum/)<br>
+1598 [文件夹操作日志搜集器](./QuestionBank/1598.Crawler%20Log%20Folder/)<br>
 1603 [设计停车系统](./QuestionBank/1603.Design%20Parking%20System/)<br>
 1614 [括号的最大嵌套深度](./QuestionBank/1614.Maximum%20Nesting%20Depth%20of%20the%20Parentheses/)<br>
 1662 [检查两个字符串数组是否相等](./QuestionBank/1662.Check%20If%20Two%20String%20Arrays%20are%20Equivalent/)<br>
