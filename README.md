@@ -571,7 +571,11 @@
 
 1 [猜数字](./LCP/1.Guess%20Numbers/)<br>
 6 [拿硬币](./LCP/6.Take%20Coins/)<br>
-6 [蓄水](./LCP/33.Store%20Water/)<br>
+33 [蓄水](./LCP/33.Store%20Water/)<br>
+
+## LCR
+
+36 [蓄水](./LCR/36.Evaluate%20the%20inverse%20Polish%20expression/)<br>
 
 ## 声明
 
