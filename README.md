@@ -572,6 +572,7 @@
 1 [猜数字](./LCP/1.Guess%20Numbers/)<br>
 6 [拿硬币](./LCP/6.Take%20Coins/)<br>
 33 [蓄水](./LCP/33.Store%20Water/)<br>
+77 [符文储备](./LCP/77.rune%20reserve/)<br>
 
 ## LCR
 
